@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.3.2.5:1", "", "Trase realisering", "EARoot/EA6/EA3/EA2/EA5/EA587.htm", "175.png", "197", "0", "", "Logical diagram0","{963B895A-0300-4935-A4B4-5DF5A6236850}");
+tocTab[tocTab.length] = new Array("0.6.3.2.5:2", "", "«featureType» Framføringsvei", "EARoot/EA6/EA3/EA2/EA5/EA590.htm", "5.png", "E774", "0", "", "Class0","{83A192DD-F999-4ce8-8E3D-62651E7E94CC}");
+tocTab[tocTab.length] = new Array("0.6.3.2.5:3", "", "«featureType» Kanal", "EARoot/EA6/EA3/EA2/EA5/EA591.htm", "5.png", "E772", "0", "", "Class0","{780D2370-3622-44b2-B52D-305D88E013DF}");
+tocTab[tocTab.length] = new Array("0.6.3.2.5:4", "", "«featureType» Trase", "EARoot/EA6/EA3/EA2/EA5/EA592.htm", "5.png", "E773", "0", "", "Class0","{2D23D494-64E8-47ff-88B0-307E6051AD1F}");
+tocTab[tocTab.length] = new Array("0.6.3.2.5:5", "", "«dataType» Seilingshøyde", "EARoot/EA6/EA3/EA2/EA5/EA593.htm", "5.png", "E775", "0", "", "Class0","{8D6879A7-5D07-4f10-935C-3630DEF30E72}");

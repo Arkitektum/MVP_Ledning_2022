@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.2.1.5.3:1", "", "Tilgjengelighetsdata - samlemodell", "EARoot/EA6/EA2/EA1/EA5/EA3/EA337.htm", "175.png", "181", "0", "", "Logical diagram0","{8035E701-BDBA-4449-9E72-F94397FA3802}");
+tocTab[tocTab.length] = new Array("0.6.2.1.5.3:2", "", "«codeList» Tilgjengelighetsvurdering", "EARoot/EA6/EA2/EA1/EA5/EA3/EA341.htm", "5.png", "E701", "0", "", "Class0","{BA084280-92B0-4d2a-89AE-7F27733E850A}");
+tocTab[tocTab.length] = new Array("0.6.2.1.5.3:3", "", "«dataType» UniversellUtforming", "EARoot/EA6/EA2/EA1/EA5/EA3/EA342.htm", "5.png", "E702", "0", "", "Class0","{7DFA92E3-2C83-4ed0-8E2B-3E75F2D10804}");

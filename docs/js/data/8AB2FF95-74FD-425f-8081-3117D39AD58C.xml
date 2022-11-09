@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.2.2.1:1", "", "Oversiktsdiagram Fellesegenskaper", "EARoot/EA2/EA2/EA1/EA39.htm", "175.png", "152", "0", "", "Logical diagram0","{0A98268F-1895-491b-B015-38F836362827}");
+tocTab[tocTab.length] = new Array("0.2.2.1:2", "", "«FeatureType» Fellesegenskaper", "EARoot/EA2/EA2/EA1/EA44.htm", "5.png", "E574", "0", "", "Class0","{6BEF6BA2-FD4F-412f-9A3B-B0A56CCE58F3}");
+tocTab[tocTab.length] = new Array("0.2.2.1:3", "", "«FeatureType» KvalitetPåkrevd", "EARoot/EA2/EA2/EA1/EA45.htm", "5.png", "E569", "0", "", "Class0","{F9439A9D-3476-4624-A85B-C3482BE658BE}");
+tocTab[tocTab.length] = new Array("0.2.2.1:4", "", "«dataType» Identifikasjon", "EARoot/EA2/EA2/EA1/EA46.htm", "5.png", "E567", "0", "", "Class0","{8811472B-732A-4d9f-BC06-B11325BE22D1}");
+tocTab[tocTab.length] = new Array("0.2.2.1:5", "", "«CodeList» Registreringsversjon", "EARoot/EA2/EA2/EA1/EA47.htm", "5.png", "E571", "0", "", "Class0","{9062F118-AB3D-48ba-A6C7-D9E8C6F67228}");
+tocTab[tocTab.length] = new Array("0.2.2.1:6", "", "«CodeList» Høydereferanse", "EARoot/EA2/EA2/EA1/EA48.htm", "5.png", "E572", "0", "", "Class0","{4120AEB3-EAB1-4e7d-B4EE-253C88AD6680}");
+tocTab[tocTab.length] = new Array("0.2.2.1:7", "", "«CodeList» Medium", "EARoot/EA2/EA2/EA1/EA49.htm", "5.png", "E565", "0", "", "Class0","{454DC42A-9127-4faa-B519-D0D0F5CCFFDB}");
+tocTab[tocTab.length] = new Array("0.2.2.1:8", "", "«CodeList» Status", "EARoot/EA2/EA2/EA1/EA50.htm", "5.png", "E577", "0", "", "Class0","{87EF150F-5977-4d6f-9A35-29553C18D65D}");
+tocTab[tocTab.length] = new Array("0.2.2.1.1", "1", "SOSI_4.5_Posisjonskvalitet", "EARoot/EA2/EA2/EA1/EA1/EA53.htm", "4.png", "", "", "{EB508E2D-D8CB-4dbf-A6E3-6C6FEC72847A}", "Package");

@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4.3.4:1", "", "Fagspesifikke kodelister FKB-Ledning", "EARoot/EA4/EA3/EA4/EA127.htm", "175.png", "49", "0", "", "Logical diagram0","{5F4D96E8-94CF-422f-A803-1D3A88F0CAFA}");
+tocTab[tocTab.length] = new Array("0.4.3.4:2", "", "Realiseringer kodelister", "EARoot/EA4/EA3/EA4/EA129.htm", "175.png", "48", "0", "", "Logical diagram0","{7A357AD7-43F4-41d5-8FD4-345658BDA060}");
+tocTab[tocTab.length] = new Array("0.4.3.4:3", "", "«CodeList» Ledningsnettverkstype", "EARoot/EA4/EA3/EA4/EA132.htm", "5.png", "E195", "0", "", "Class0","{5FAC9C1B-606C-4993-BD05-9E63F3FDBB60}");
+tocTab[tocTab.length] = new Array("0.4.3.4:4", "", "«CodeList» Mastekonstruksjon", "EARoot/EA4/EA3/EA4/EA133.htm", "5.png", "E196", "0", "", "Class0","{4529E15F-862C-4327-9453-FCCE4683DB7C}");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.2.1.3:1", "", "Geometrityper", "EARoot/EA6/EA2/EA1/EA3/EA293.htm", "175.png", "175", "0", "", "Logical diagram0","{6D6E461F-1A1E-400d-8071-E078FBBC589C}");
+tocTab[tocTab.length] = new Array("0.6.2.1.3:2", "", "Flate", "EARoot/EA6/EA2/EA1/EA3/EA296.htm", "5.png", "E676", "0", "", "Class0","{B2F8E569-6491-45ba-9BCE-831CECCA0A49}");
+tocTab[tocTab.length] = new Array("0.6.2.1.3:3", "", "Kurve", "EARoot/EA6/EA2/EA1/EA3/EA297.htm", "5.png", "E673", "0", "", "Class0","{62A83371-3E12-4024-921D-A277F6D78583}");
+tocTab[tocTab.length] = new Array("0.6.2.1.3:4", "", "Punkt", "EARoot/EA6/EA2/EA1/EA3/EA298.htm", "5.png", "E675", "0", "", "Class0","{05C3275B-1886-4b22-9D0D-5BC1884229F4}");
+tocTab[tocTab.length] = new Array("0.6.2.1.3:5", "", "Sverm", "EARoot/EA6/EA2/EA1/EA3/EA299.htm", "5.png", "E674", "0", "", "Class0","{18A7F52F-5140-4c75-A73C-467F9D72FD56}");

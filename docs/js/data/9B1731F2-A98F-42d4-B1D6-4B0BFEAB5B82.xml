@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.2.1.2.2:1", "", "Hoveddiagram Retning", "EARoot/EA6/EA2/EA1/EA2/EA2/EA274.htm", "175.png", "173", "0", "", "Logical diagram0","{2F2D9C0C-C523-4bac-B056-274216B64303}");
+tocTab[tocTab.length] = new Array("0.6.2.1.2.2:2", "", "«dataType» Retning", "EARoot/EA6/EA2/EA1/EA2/EA2/EA277.htm", "5.png", "E661", "0", "", "Class0","{F67BEC2D-E336-4b7f-802E-BF3D6460E411}");
+tocTab[tocTab.length] = new Array("0.6.2.1.2.2:3", "", "«CodeList» Retningsenhet", "EARoot/EA6/EA2/EA1/EA2/EA2/EA278.htm", "5.png", "E662", "0", "", "Class0","{4CAEA893-9F79-452c-AED8-A316132DE852}");
+tocTab[tocTab.length] = new Array("0.6.2.1.2.2:4", "", "«CodeList» Retningsreferanse", "EARoot/EA6/EA2/EA1/EA2/EA2/EA279.htm", "5.png", "E660", "0", "", "Class0","{E06DA363-1AF0-435e-8FA1-CFE1779AD51B}");

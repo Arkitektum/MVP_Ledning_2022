@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.6.1.1.1:1", "", "NKOM", "EARoot/EA6/EA1/EA1/EA1/EA206.htm", "175.png", "25", "0", "", "Logical diagram0","{18A516E5-C420-4454-9CC1-AB10EB9EB5EC}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:2", "", "«dataType» Guid", "EARoot/EA6/EA1/EA1/EA1/EA211.htm", "5.png", "E116", "0", "", "Class0","{D6D2334C-8652-43f6-81E3-C51DE5271E3C}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:3", "", "«featureType» Infrastrukturobjekt", "EARoot/EA6/EA1/EA1/EA1/EA212.htm", "5.png", "E94", "0", "", "Class0","{0ABDA0C9-7039-4d5d-9152-A0F258AB6883}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:4", "", "«codeList» InfrastrukturobjektType", "EARoot/EA6/EA1/EA1/EA1/EA213.htm", "5.png", "E96", "0", "", "Class0","{B310A1A7-F977-4fb0-9501-479E09C9361C}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:5", "", "«dataType» Kommentar", "EARoot/EA6/EA1/EA1/EA1/EA214.htm", "5.png", "E122", "0", "", "Class0","{D96FAD39-7153-4341-8624-81E908DB6090}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:6", "", "«union» Nkom_geometri", "EARoot/EA6/EA1/EA1/EA1/EA215.htm", "5.png", "E118", "0", "", "Class0","{2E59D7B3-C8D7-4a25-8F37-15D9871F3E83}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:7", "", "«codeList» Nkom_Status", "EARoot/EA6/EA1/EA1/EA1/EA216.htm", "5.png", "E117", "0", "", "Class0","{166B463D-7EC2-4f4c-A520-3DA5094BC61F}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:8", "", "«codeList» RegistrationTypeCodeList", "EARoot/EA6/EA1/EA1/EA1/EA217.htm", "5.png", "E100", "0", "", "Class0","{9794A3B9-618D-4eef-B4F1-42F0D87763F3}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:9", "", "«CodeList» Målemetode_old", "EARoot/EA6/EA1/EA1/EA1/EA218.htm", "5.png", "E102", "0", "", "Class0","{67EC9749-6A38-43bf-A11E-BF4C4B65D6B9}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:10", "", "«codeList» Type", "EARoot/EA6/EA1/EA1/EA1/EA219.htm", "5.png", "E617", "0", "", "Class0","{2156DAA7-3602-4342-AA69-8952A50DFA0B}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:11", "", "«CodeList» Målemetode", "EARoot/EA6/EA1/EA1/EA1/EA220.htm", "5.png", "E820", "0", "", "Class0","{2638718B-7129-49d3-8480-4BA625A037A0}");

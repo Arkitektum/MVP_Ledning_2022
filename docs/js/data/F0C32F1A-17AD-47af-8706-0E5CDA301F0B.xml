@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.1", "1", "«applicationSchema» NKOM_M2M", "EARoot/EA4/EA1/EA77.htm", "4.png", "", "", "{71D1E3FC-28C9-4273-8A64-BA74828521A9}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2", "1", "«applicationSchema» NKOM_SOSI_GML", "EARoot/EA4/EA2/EA86.htm", "4.png", "", "", "{3C6FA805-A9B2-4820-A448-EE58BF938026}", "Package");
+tocTab[tocTab.length] = new Array("0.4.3", "1", "«ApplicationSchema» FKB-Ledning-5.0 Mast_Mottaker", "EARoot/EA4/EA3/EA103.htm", "4.png", "", "", "{B5D9EEAF-E54D-44bf-8F15-E5F659571D3C}", "Package");

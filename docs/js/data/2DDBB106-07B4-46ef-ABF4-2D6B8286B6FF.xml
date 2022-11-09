@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.6.3.1.2:1", "", "Objekttyper - abstrakte", "EARoot/EA6/EA3/EA1/EA2/EA374.htm", "175.png", "3", "0", "", "Logical diagram0","{D258154F-AAC7-4286-B2EE-F06E591DB0B7}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2:2", "", "Realiseringer objekttyper - abstrakte", "EARoot/EA6/EA3/EA1/EA2/EA376.htm", "175.png", "4", "0", "", "Logical diagram0","{A7C9269D-08C2-4752-838D-812F75CDE448}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2:3", "", "«FeatureType» KoplingGrense", "EARoot/EA6/EA3/EA1/EA2/EA380.htm", "5.png", "E15", "0", "", "Class0","{71CB09BC-51DE-4f93-8D5D-7EDC1D9CCE96}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2:4", "", "«FeatureType» KoplingSenterlinje", "EARoot/EA6/EA3/EA1/EA2/EA381.htm", "5.png", "E13", "0", "", "Class0","{E5606048-1A12-4e25-8E05-044354AB21DC}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2:5", "", "«FeatureType» KoplingPunkt", "EARoot/EA6/EA3/EA1/EA2/EA382.htm", "5.png", "E17", "0", "", "Class0","{A71F447C-7969-4bcb-9DE3-3B2BFEF6694F}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2:6", "", "«FeatureType» Ledning", "EARoot/EA6/EA3/EA1/EA2/EA383.htm", "5.png", "E12", "0", "", "Class0","{8C016E20-A88B-488e-96DD-B13BA5604768}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2:7", "", "«FeatureType» LidarMetadata", "EARoot/EA6/EA3/EA1/EA2/EA384.htm", "5.png", "E14", "0", "", "Class0","{3D46D324-A2A2-4164-A6DD-EA9E245E3BA5}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2:8", "", "«FeatureType» Nettverkskomponent", "EARoot/EA6/EA3/EA1/EA2/EA385.htm", "5.png", "E11", "0", "", "Class0","{7A83499F-F2E7-4e71-ACF0-BBE538651D67}");

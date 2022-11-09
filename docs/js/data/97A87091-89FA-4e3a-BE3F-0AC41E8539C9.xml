@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.6.2.1.4:1", "", "EksemplerPåBrukAvTekstOgSymbol", "EARoot/EA6/EA2/EA1/EA4/EA300.htm", "175.png", "177", "0", "", "Logical diagram0","{C7D2D068-D373-4fb9-ADC5-BB9BA5B9FDFE}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:2", "", "Hoveddiagram TekstOgSymbol", "EARoot/EA6/EA2/EA1/EA4/EA302.htm", "175.png", "176", "0", "", "Logical diagram0","{3798C192-BBCE-402a-81DA-CFF427EAC721}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:3", "", "«featureType» Grensemerkesymbol", "EARoot/EA6/EA2/EA1/EA4/EA305.htm", "5.png", "E685", "0", "", "Class0","{768F88EE-FD3F-4672-9217-3859FE5DAF33}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:4", "", "«FeatureType» Høydetall", "EARoot/EA6/EA2/EA1/EA4/EA306.htm", "5.png", "E679", "0", "", "Class0","{90F75C2C-1BBA-4b50-9D8E-CA2ADA8564AF}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:5", "", "«dataType» Symbolformatering", "EARoot/EA6/EA2/EA1/EA4/EA307.htm", "5.png", "E681", "0", "", "Class0","{A42C984B-0E5B-45f5-ADEC-69CE5BBC8CE9}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:6", "", "«FeatureType» Symbolobjekt", "EARoot/EA6/EA2/EA1/EA4/EA308.htm", "5.png", "E687", "0", "", "Class0","{2939B745-0551-4ffd-BA87-74D9A5363E57}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:7", "", "«dataType» Tekstdimensjon", "EARoot/EA6/EA2/EA1/EA4/EA309.htm", "5.png", "E686", "0", "", "Class0","{7CFA19A8-D4BB-488e-B1AE-68944E97B458}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:8", "", "«dataType» TekstdimensjonTerreng", "EARoot/EA6/EA2/EA1/EA4/EA310.htm", "5.png", "E683", "0", "", "Class0","{E8A82D6E-594E-41da-BFFA-926BB721774C}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:9", "", "«dataType» Tekstformatering", "EARoot/EA6/EA2/EA1/EA4/EA311.htm", "5.png", "E678", "0", "", "Class0","{0C6746ED-AB86-4fbf-8296-C605DEFE2306}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:10", "", "«FeatureType» Tekstobjekt", "EARoot/EA6/EA2/EA1/EA4/EA312.htm", "5.png", "E677", "0", "", "Class0","{C1F89277-B542-48d8-9395-726D83FA5173}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:11", "", "TekstreferanseNord", "EARoot/EA6/EA2/EA1/EA4/EA313.htm", "247.png", "E684", "0", "", "Enumeration0","{9B33B559-90B2-4883-9B48-AF2CF09AC5B1}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:12", "", "TekstreferanseØst", "EARoot/EA6/EA2/EA1/EA4/EA314.htm", "247.png", "E688", "0", "", "Enumeration0","{4DFB0495-8322-48e9-B99B-846ECA32FFBB}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:13", "", "«dataType» TekstReferansepunkt", "EARoot/EA6/EA2/EA1/EA4/EA315.htm", "5.png", "E680", "0", "", "Class0","{A108FEC5-49B0-4038-A78B-E7D3D14F6F27}");
+tocTab[tocTab.length] = new Array("0.6.2.1.4:14", "", "«FeatureType» Turiststiskilt", "EARoot/EA6/EA2/EA1/EA4/EA316.htm", "5.png", "E682", "0", "", "Class0","{E79675DB-423E-4167-98F6-911EA9D7B8FF}");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.6.3:1", "", "Sammenligning 4.6 - 5.0", "EARoot/EA6/EA3/EA343.htm", "175.png", "200", "0", "", "Logical diagram0","{9DB8A41F-84E3-454e-8430-14F523B46060}");
+tocTab[tocTab.length] = new Array("0.6.3:2", "", "Enveis-konvertering mulig", "EARoot/EA6/EA3/EA347.htm", "5.png", "E795", "0", "", "Class0","{519EE7C3-3031-4ec6-96C4-A823DCFE6472}");
+tocTab[tocTab.length] = new Array("0.6.3:3", "", "Mangler i FKB Ledning 4.6", "EARoot/EA6/EA3/EA348.htm", "5.png", "E793", "0", "", "Class0","{64DB05A8-00AC-4d1e-B9A2-CD0D659863EA}");
+tocTab[tocTab.length] = new Array("0.6.3:4", "", "Mangler i FKB Ledning 5.0", "EARoot/EA6/EA3/EA349.htm", "5.png", "E794", "0", "", "Class0","{27806450-D127-4656-9E8F-25B888059DB6}");
+tocTab[tocTab.length] = new Array("0.6.3.1", "1", "«ApplicationSchema» FKB-Ledning-5.0_original", "EARoot/EA6/EA3/EA1/EA356.htm", "4.png", "", "", "{D64A0CFA-4640-47b6-95E4-7DF180923CB7}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3.2", "1", "«ApplicationSchema» FKB-Ledning 4.6_original", "EARoot/EA6/EA3/EA2/EA507.htm", "4.png", "", "", "{B112D7E2-E74B-4258-835A-7190F30B77BE}", "Package");

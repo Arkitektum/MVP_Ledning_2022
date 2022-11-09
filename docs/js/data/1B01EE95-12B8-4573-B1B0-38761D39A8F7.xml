@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.6.3.2.2:1", "", "Kjernemodell", "EARoot/EA6/EA3/EA2/EA2/EA530.htm", "175.png", "192", "0", "", "Logical diagram0","{27573A77-5A20-4fc6-9628-48EE009C4F71}");
+tocTab[tocTab.length] = new Array("0.6.3.2.2:2", "", "Kjernemodell realisering", "EARoot/EA6/EA3/EA2/EA2/EA532.htm", "175.png", "190", "0", "", "Logical diagram0","{9D93519A-85D7-41f8-90A8-3574B5C4CC5F}");
+tocTab[tocTab.length] = new Array("0.6.3.2.2:3", "", "Datatyper-Kodelister-relasjoner", "EARoot/EA6/EA3/EA2/EA2/EA534.htm", "175.png", "191", "0", "", "Logical diagram0","{F241477D-C401-4a2a-886C-C81A005A014D}");
+tocTab[tocTab.length] = new Array("0.6.3.2.2:4", "", "«featureType» Nettverkskomponent", "EARoot/EA6/EA3/EA2/EA2/EA542.htm", "5.png", "E733", "0", "", "Class0","{86AB929B-CFDB-4571-9584-6BCA47FDFEEC}");
+tocTab[tocTab.length] = new Array("0.6.3.2.2:5", "", "«featureType» Ledning", "EARoot/EA6/EA3/EA2/EA2/EA543.htm", "5.png", "E732", "0", "", "Class0","{8E20F098-9671-4294-9604-6834E846BF41}");
+tocTab[tocTab.length] = new Array("0.6.3.2.2:6", "", "«featureType» Kopling", "EARoot/EA6/EA3/EA2/EA2/EA544.htm", "5.png", "E735", "0", "", "Class0","{290CF0BB-6CC3-47b1-AF32-2E785C7DD4C1}");
+tocTab[tocTab.length] = new Array("0.6.3.2.2:7", "", "«dataType» Eier", "EARoot/EA6/EA3/EA2/EA2/EA545.htm", "5.png", "E738", "0", "", "Class0","{5BC171D8-C475-41d1-8F86-86BEA0BD7CCA}");
+tocTab[tocTab.length] = new Array("0.6.3.2.2:8", "", "«codeList» Eiertype", "EARoot/EA6/EA3/EA2/EA2/EA546.htm", "5.png", "E734", "0", "", "Class0","{6549F7D6-66EE-4d22-9385-CCB348330097}");
+tocTab[tocTab.length] = new Array("0.6.3.2.2:9", "", "«codeList» LedningHøydereferanse", "EARoot/EA6/EA3/EA2/EA2/EA547.htm", "5.png", "E736", "0", "", "Class0","{BC35C8B6-C36D-4f7a-8AE3-C3D51368C06B}");
+tocTab[tocTab.length] = new Array("0.6.3.2.2:10", "", "«codeList» Ledningsnettverkstype", "EARoot/EA6/EA3/EA2/EA2/EA548.htm", "5.png", "E737", "0", "", "Class0","{A0FF7C17-3D65-49bf-B045-4019CEBF5D9F}");

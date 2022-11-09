@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.4.3.2:1", "", "Objekttyper - abstrakte", "EARoot/EA4/EA3/EA2/EA114.htm", "175.png", "31", "0", "", "Logical diagram0","{D4A800D3-91C4-4f63-AF14-3C08A59A2F4E}");
+tocTab[tocTab.length] = new Array("0.4.3.2:2", "", "«FeatureType» KoplingPunkt", "EARoot/EA4/EA3/EA2/EA117.htm", "5.png", "E139", "0", "", "Class0","{E9FAA92E-06AD-40f9-903A-0339FDCB93F6}");
+tocTab[tocTab.length] = new Array("0.4.3.2:3", "", "«FeatureType» Nettverkskomponent", "EARoot/EA4/EA3/EA2/EA118.htm", "5.png", "E133", "0", "", "Class0","{8E466151-615A-45a6-8D07-AC23A8D79149}");

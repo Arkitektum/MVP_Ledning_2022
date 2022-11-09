@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6.2.1.5.2:1", "", "INON_Inngrep", "EARoot/EA6/EA2/EA1/EA5/EA2/EA331.htm", "175.png", "180", "0", "", "Logical diagram0","{AFDCC044-647E-4d74-89F4-1C0E19D214D1}");
+tocTab[tocTab.length] = new Array("0.6.2.1.5.2:2", "", "«dataType» INONInngrep", "EARoot/EA6/EA2/EA1/EA5/EA2/EA334.htm", "5.png", "E699", "0", "", "Class0","{98BC629A-3EAB-4c43-B96A-7171B20C65E2}");
+tocTab[tocTab.length] = new Array("0.6.2.1.5.2:3", "", "«codeList» INONSektoransvar", "EARoot/EA6/EA2/EA1/EA5/EA2/EA335.htm", "5.png", "E697", "0", "", "Class0","{C361C7CE-AB15-4cc3-AB62-957484531875}");
+tocTab[tocTab.length] = new Array("0.6.2.1.5.2:4", "", "«codeList» INONStatus", "EARoot/EA6/EA2/EA1/EA5/EA2/EA336.htm", "5.png", "E698", "0", "", "Class0","{E735CF2C-FBB6-456d-8328-94E4E80791EE}");

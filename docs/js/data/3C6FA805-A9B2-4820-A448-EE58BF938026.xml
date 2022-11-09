@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.4.2:1", "", "NKOM_SOSI_GML", "EARoot/EA4/EA2/EA84.htm", "175.png", "55", "0", "", "Logical diagram0","{27F90517-F3CE-44dd-BEA2-EF9BE6FA5C7F}");
+tocTab[tocTab.length] = new Array("0.4.2:2", "", "«featureType» Infrastruktur", "EARoot/EA4/EA2/EA88.htm", "5.png", "E220", "0", "", "Class0","{4F129301-0861-47e2-99E3-192F71A1527A}");
+tocTab[tocTab.length] = new Array("0.4.2:3", "", "Infrastruktur_eier", "EARoot/EA4/EA2/EA89.htm", "5.png", "E596", "0", "", "Class0","{C4FFCB65-85AB-435c-BAA5-7AA5559C5A78}");
+tocTab[tocTab.length] = new Array("0.4.2:4", "", "«union» NKOM_geometri", "EARoot/EA4/EA2/EA90.htm", "5.png", "E225", "0", "", "Class0","{2068DB24-380F-4dcb-BC6E-E9FB6A4320CE}");
+tocTab[tocTab.length] = new Array("0.4.2:5", "", "XML_any", "EARoot/EA4/EA2/EA91.htm", "5.png", "E580", "0", "", "Class0","{75759FE7-6AFC-457e-85CE-F9C67114A12C}");
+tocTab[tocTab.length] = new Array("0.4.2:6", "", "«codeList» Nkom_Status", "EARoot/EA4/EA2/EA92.htm", "5.png", "E579", "0", "", "Class0","{93C836A3-0E94-4284-B7CB-004BAD98F461}");
+tocTab[tocTab.length] = new Array("0.4.2:7", "", "«codeList» Type", "EARoot/EA4/EA2/EA93.htm", "5.png", "E227", "0", "", "Class0","{514A841C-195D-4e61-B426-C6962AA3AE1B}");
+tocTab[tocTab.length] = new Array("0.4.2:8", "", "«dataType» Identifikasjon", "EARoot/EA4/EA2/EA94.htm", "5.png", "E222", "0", "", "Class0","{085532B5-79D7-4f4f-BC4C-45A9277DAF10}");
+tocTab[tocTab.length] = new Array("0.4.2:9", "", "«dataType» Posisjonskvalitet", "EARoot/EA4/EA2/EA95.htm", "5.png", "E224", "0", "", "Class0","{759BA8F5-CCE9-4bd9-9478-95E05455477D}");
+tocTab[tocTab.length] = new Array("0.4.2:10", "", "«CodeList» Målemetode", "EARoot/EA4/EA2/EA96.htm", "5.png", "E813", "0", "", "Class0","{ACF09975-D5A8-402f-9285-FD433C212E6D}");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.2.1.1:1", "", "Kvalitet", "EARoot/EA2/EA2/EA1/EA1/EA51.htm", "175.png", "202", "0", "", "Logical diagram0","{E7B498C4-6A06-4b6f-8DF0-47D4CB378F65}");
+tocTab[tocTab.length] = new Array("0.2.2.1.1:2", "", "«codeList» Målemetode", "EARoot/EA2/EA2/EA1/EA1/EA56.htm", "5.png", "E809", "0", "", "Class0","{FCEDA3A8-A70C-49b8-8A85-AC8EF13321E5}");
+tocTab[tocTab.length] = new Array("0.2.2.1.1:3", "", "«codeList» MålemetodeHøyde", "EARoot/EA2/EA2/EA1/EA1/EA57.htm", "5.png", "E810", "0", "", "Class0","{C7FE1BE1-C76A-40f1-AFFE-7A274D8D963A}");
+tocTab[tocTab.length] = new Array("0.2.2.1.1:4", "", "«dataType» Posisjonskvalitet", "EARoot/EA2/EA2/EA1/EA1/EA58.htm", "5.png", "E805", "0", "", "Class0","{081EDF24-62FB-44d4-91CF-4381C5735DA0}");
+tocTab[tocTab.length] = new Array("0.2.2.1.1:5", "", "«codeList» Synbarhet", "EARoot/EA2/EA2/EA1/EA1/EA59.htm", "5.png", "E806", "0", "", "Class0","{A85BEC89-A959-41df-A84B-51299DE574FC}");

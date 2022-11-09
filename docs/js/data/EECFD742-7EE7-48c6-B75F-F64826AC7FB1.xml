@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.6.3.2.6:1", "", "Datatyper og kodelister", "EARoot/EA6/EA3/EA2/EA6/EA594.htm", "175.png", "199", "0", "", "Logical diagram0","{92DAE511-F13E-4d8e-81D9-8D595D5E9F0E}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:2", "", "Arv av fellesegenskaper fra SOSI-objekt", "EARoot/EA6/EA3/EA2/EA6/EA596.htm", "175.png", "198", "0", "", "Logical diagram0","{F105E4B1-8ED3-4a64-BC65-72ED1CAB0286}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:3", "", "«featureType» Fellesegenskaper", "EARoot/EA6/EA3/EA2/EA6/EA602.htm", "5.png", "E780", "0", "", "Class0","{CD249D62-C5F8-4d36-85FF-077CE84F381B}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:4", "", "«featureType» IdentifikasjonPåkrevd", "EARoot/EA6/EA3/EA2/EA6/EA603.htm", "5.png", "E785", "0", "", "Class0","{10E62674-3DDA-46cd-B0E6-040740ECEA77}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:5", "", "«dataType» Identifikasjon", "EARoot/EA6/EA3/EA2/EA6/EA604.htm", "5.png", "E783", "0", "", "Class0","{EF8FBAAC-9E6F-4f50-9360-E3C51EFFF9D7}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:6", "", "«dataType» Endringsflagg", "EARoot/EA6/EA3/EA2/EA6/EA605.htm", "5.png", "E787", "0", "", "Class0","{A8CA103F-38C0-4268-AE77-B4F523948706}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:7", "", "«dataType» Kopidata", "EARoot/EA6/EA3/EA2/EA6/EA606.htm", "5.png", "E782", "0", "", "Class0","{85E97905-5A5B-4c98-A7EE-3EE0C58F0987}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:8", "", "«dataType» Posisjonskvalitet", "EARoot/EA6/EA3/EA2/EA6/EA607.htm", "5.png", "E784", "0", "", "Class0","{C056357C-CE83-4c5b-9008-0C2D8EC6B492}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:9", "", "«dataType» Registreringsversjon", "EARoot/EA6/EA3/EA2/EA6/EA608.htm", "5.png", "E778", "0", "", "Class0","{4C611BC5-1FCB-441a-96F7-02E8144D84AA}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:10", "", "«codeList» Medium", "EARoot/EA6/EA3/EA2/EA6/EA609.htm", "5.png", "E776", "0", "", "Class0","{6B2D6B5B-589F-44bb-B7DB-AAB35EE9B6F8}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:11", "", "«codeList» Målemetode", "EARoot/EA6/EA3/EA2/EA6/EA610.htm", "5.png", "E786", "0", "", "Class0","{6D6AED42-183D-4843-A7C3-5E0C20E6EE39}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:12", "", "«codeList» MålemetodeHøyde", "EARoot/EA6/EA3/EA2/EA6/EA611.htm", "5.png", "E779", "0", "", "Class0","{0ECFAF2E-AEC9-429c-A14D-2607C6670399}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:13", "", "«codeList» Synbarhet", "EARoot/EA6/EA3/EA2/EA6/EA612.htm", "5.png", "E781", "0", "", "Class0","{21EC3FD6-7848-40fe-90C6-A63231F5C6E2}");
+tocTab[tocTab.length] = new Array("0.6.3.2.6:14", "", "«codeList» TypeEndring", "EARoot/EA6/EA3/EA2/EA6/EA613.htm", "5.png", "E777", "0", "", "Class0","{D38273E0-E1C7-456d-AF33-A6F16510D88B}");

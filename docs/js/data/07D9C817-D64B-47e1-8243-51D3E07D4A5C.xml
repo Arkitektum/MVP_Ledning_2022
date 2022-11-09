@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.4.3.5:1", "", "Oversiktsdiagram Fellesegenskaper", "EARoot/EA4/EA3/EA5/EA134.htm", "175.png", "51", "0", "", "Logical diagram0","{DCB9AA26-FC7C-42a2-957C-B593937B44FC}");
+tocTab[tocTab.length] = new Array("0.4.3.5:2", "", "Realisering fra SOSI generell del", "EARoot/EA4/EA3/EA5/EA136.htm", "175.png", "50", "0", "", "Logical diagram0","{415A72F5-CE9A-4119-9E0B-14BCCA9D10EC}");
+tocTab[tocTab.length] = new Array("0.4.3.5:3", "", "Hoveddiagram Posisjonskvalitet", "EARoot/EA4/EA3/EA5/EA138.htm", "175.png", "52", "0", "", "Logical diagram0","{35B4B8B0-F56D-44d8-BB48-A898665A2EDD}");
+tocTab[tocTab.length] = new Array("0.4.3.5:4", "", "«FeatureType» Fellesegenskaper", "EARoot/EA4/EA3/EA5/EA146.htm", "5.png", "E213", "0", "", "Class0","{B1FA8E37-3A65-4222-8440-B94E3F28143A}");
+tocTab[tocTab.length] = new Array("0.4.3.5:5", "", "«FeatureType» KvalitetPåkrevd", "EARoot/EA4/EA3/EA5/EA147.htm", "5.png", "E208", "0", "", "Class0","{83132B5C-24F0-4354-8D97-44084B02EA98}");
+tocTab[tocTab.length] = new Array("0.4.3.5:6", "", "«dataType» Identifikasjon", "EARoot/EA4/EA3/EA5/EA148.htm", "5.png", "E206", "0", "", "Class0","{579DA626-D4E6-4ec5-9549-08FCB95D50D5}");
+tocTab[tocTab.length] = new Array("0.4.3.5:7", "", "«dataType» Posisjonskvalitet", "EARoot/EA4/EA3/EA5/EA149.htm", "5.png", "E209", "0", "", "Class0","{681BC6FC-8B2F-43f9-8496-0A7B9F207615}");
+tocTab[tocTab.length] = new Array("0.4.3.5:8", "", "«CodeList» Synbarhet", "EARoot/EA4/EA3/EA5/EA150.htm", "5.png", "E202", "0", "", "Class0","{ADDC0FBF-AC00-4d5f-A5DF-3E7EDBB170A4}");
+tocTab[tocTab.length] = new Array("0.4.3.5:9", "", "«CodeList» Datafangstmetode", "EARoot/EA4/EA3/EA5/EA151.htm", "5.png", "E203", "0", "", "Class0","{B635464B-E631-4e2e-A178-7DBB22BEF0EE}");
+tocTab[tocTab.length] = new Array("0.4.3.5:10", "", "«CodeList» Registreringsversjon", "EARoot/EA4/EA3/EA5/EA152.htm", "5.png", "E210", "0", "", "Class0","{AA870B02-C887-4cb1-AA98-357CA6F50709}");
+tocTab[tocTab.length] = new Array("0.4.3.5:11", "", "«CodeList» Høydereferanse", "EARoot/EA4/EA3/EA5/EA153.htm", "5.png", "E211", "0", "", "Class0","{5E41848F-D800-4087-804B-27883B7602BA}");
+tocTab[tocTab.length] = new Array("0.4.3.5:12", "", "«CodeList» Medium", "EARoot/EA4/EA3/EA5/EA154.htm", "5.png", "E204", "0", "", "Class0","{37F0184E-A8AC-4d3e-A292-42C2C1E25E79}");

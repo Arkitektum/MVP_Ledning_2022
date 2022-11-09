@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.1.1:1", "", "Hoveddiagram Posisjonskvalitet", "EARoot/EA2/EA1/EA1/EA10.htm", "175.png", "153", "0", "", "Logical diagram0","{1E37FB41-823B-44ed-870B-246E871872A1}");
+tocTab[tocTab.length] = new Array("0.2.1.1:2", "", "«dataType» Posisjonskvalitet", "EARoot/EA2/EA1/EA1/EA16.htm", "5.png", "E570", "0", "", "Class0","{7EAD722B-BA56-4aef-ABC5-7FD5D9E4A1C7}");
+tocTab[tocTab.length] = new Array("0.2.1.1:3", "", "«CodeList» Synbarhet", "EARoot/EA2/EA1/EA1/EA17.htm", "5.png", "E563", "0", "", "Class0","{56D570DA-0F3A-4331-9E6E-F70E8DAFDB1E}");
+tocTab[tocTab.length] = new Array("0.2.1.1:4", "", "«CodeList» Datafangstmetode", "EARoot/EA2/EA1/EA1/EA18.htm", "5.png", "E564", "0", "", "Class0","{EFB8DF0B-87AB-4de5-9A97-24E3C8720952}");

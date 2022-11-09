@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.6.3.1.5:1", "", "Fagspesifikke kodelister FKB-Ledning", "EARoot/EA6/EA3/EA1/EA5/EA473.htm", "175.png", "21", "0", "", "Logical diagram0","{F3CA1546-B2A3-4671-91C3-0563AB4B1C23}");
+tocTab[tocTab.length] = new Array("0.6.3.1.5:2", "", "Realiseringer kodelister", "EARoot/EA6/EA3/EA1/EA5/EA475.htm", "175.png", "20", "0", "", "Logical diagram0","{7F5015D2-9819-4e46-8B64-10D2EA2B10CC}");
+tocTab[tocTab.length] = new Array("0.6.3.1.5:3", "", "«CodeList» Fase", "EARoot/EA6/EA3/EA1/EA5/EA478.htm", "5.png", "E77", "0", "", "Class0","{FF83AC32-0C99-436d-B0F8-33BC03B79B1F}");
+tocTab[tocTab.length] = new Array("0.6.3.1.5:4", "", "«CodeList» Kumlokkform", "EARoot/EA6/EA3/EA1/EA5/EA479.htm", "5.png", "E75", "0", "", "Class0","{9E46B639-AF90-42a2-8C8A-9E2C2E7B936C}");
+tocTab[tocTab.length] = new Array("0.6.3.1.5:5", "", "«CodeList» Ledningsnettverkstype", "EARoot/EA6/EA3/EA1/EA5/EA480.htm", "5.png", "E73", "0", "", "Class0","{746500D8-281A-4479-ACE6-8FD5DE60302A}");
+tocTab[tocTab.length] = new Array("0.6.3.1.5:6", "", "«CodeList» Mastekonstruksjon", "EARoot/EA6/EA3/EA1/EA5/EA481.htm", "5.png", "E74", "0", "", "Class0","{F79DB1C5-15CC-4136-8C95-4281BC883DC8}");
+tocTab[tocTab.length] = new Array("0.6.3.1.5:7", "", "«CodeList» Punktplassering", "EARoot/EA6/EA3/EA1/EA5/EA482.htm", "5.png", "E76", "0", "", "Class0","{6A5740FF-C13D-4aa8-83D3-6859A3EF484C}");
+tocTab[tocTab.length] = new Array("0.6.3.1.5:8", "", "«CodeList» Stasjonsplassering", "EARoot/EA6/EA3/EA1/EA5/EA483.htm", "5.png", "E78", "0", "", "Class0","{6735A776-7A6A-4197-862C-D3701AF4473D}");

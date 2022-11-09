@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.6.3.1.1:1", "", "Supplert", "EARoot/EA6/EA3/EA1/EA1/EA367.htm", "175.png", "27", "0", "", "Logical diagram0","{F15A2565-EE6F-4bf5-BD01-619FF3209619}");
+tocTab[tocTab.length] = new Array("0.6.3.1.1:2", "", "«CodeList» Status", "EARoot/EA6/EA3/EA1/EA1/EA371.htm", "5.png", "E108", "0", "", "Class0","{3BEEAE2F-9F36-4757-8FA8-0C9DD9037FD8}");
+tocTab[tocTab.length] = new Array("0.6.3.1.1.1", "1", "Original_SOSI", "EARoot/EA6/EA3/EA1/EA1/EA1/EA372.htm", "4.png", "", "", "{2EB353D4-9AD9-42ed-8EF7-0A2B80E1E9E5}", "Package");

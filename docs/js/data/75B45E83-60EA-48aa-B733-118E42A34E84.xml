@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.6.3.1.6:1", "", "Oversiktsdiagram Fellesegenskaper", "EARoot/EA6/EA3/EA1/EA6/EA484.htm", "175.png", "23", "0", "", "Logical diagram0","{1F65464D-5D1C-4215-A6F7-7A2A2B971E12}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:2", "", "Realisering fra SOSI generell del", "EARoot/EA6/EA3/EA1/EA6/EA486.htm", "175.png", "22", "0", "", "Logical diagram0","{5E685B09-CF4E-4ec6-99B4-D7FFF94CCF09}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:3", "", "Hoveddiagram Posisjonskvalitet", "EARoot/EA6/EA3/EA1/EA6/EA488.htm", "175.png", "24", "0", "", "Logical diagram0","{E3D87506-39D8-4e2c-A4BE-C2BF0535E2BC}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:4", "", "«FeatureType» Fellesegenskaper", "EARoot/EA6/EA3/EA1/EA6/EA496.htm", "5.png", "E91", "0", "", "Class0","{7AA6BC59-3A7C-4e7c-80AF-470D085B2965}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:5", "", "«FeatureType» KvalitetPåkrevd", "EARoot/EA6/EA3/EA1/EA6/EA497.htm", "5.png", "E86", "0", "", "Class0","{6DF63F33-EE97-4a6c-B972-430015E977FD}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:6", "", "«dataType» Identifikasjon", "EARoot/EA6/EA3/EA1/EA6/EA498.htm", "5.png", "E84", "0", "", "Class0","{157C5750-A298-4ca9-95C1-A53BC4A227BD}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:7", "", "«dataType» Posisjonskvalitet", "EARoot/EA6/EA3/EA1/EA6/EA499.htm", "5.png", "E87", "0", "", "Class0","{DE8F6C87-AF31-4661-9DAC-483F1F8BF129}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:8", "", "«CodeList» Synbarhet", "EARoot/EA6/EA3/EA1/EA6/EA500.htm", "5.png", "E80", "0", "", "Class0","{D63072A5-96AF-4495-9426-738A121DB913}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:9", "", "«CodeList» Datafangstmetode", "EARoot/EA6/EA3/EA1/EA6/EA501.htm", "5.png", "E81", "0", "", "Class0","{3CAE5747-6A0A-447c-8E5B-195984554335}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:10", "", "«CodeList» Registreringsversjon", "EARoot/EA6/EA3/EA1/EA6/EA502.htm", "5.png", "E88", "0", "", "Class0","{38BA69E3-8FBC-42b0-91CA-5AD14A6D38B0}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:11", "", "«CodeList» Høydereferanse", "EARoot/EA6/EA3/EA1/EA6/EA503.htm", "5.png", "E89", "0", "", "Class0","{1E594514-2E5B-4143-A5DD-0D0F0F83CDE0}");
+tocTab[tocTab.length] = new Array("0.6.3.1.6:12", "", "«CodeList» Medium", "EARoot/EA6/EA3/EA1/EA6/EA504.htm", "5.png", "E82", "0", "", "Class0","{14D5ED7F-C623-400e-8E06-091718914DEB}");
