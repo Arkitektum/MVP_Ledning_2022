@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.6.3.1.2:1", "", "Delvis sti til klasse", "EARoot/EA6/EA3/EA1/EA2/EA490.htm", "175.png", "187", "0", "", "Logical diagram0","{415683E7-D423-416f-9834-23164636D128}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2:2", "", "Full sti til klasse", "EARoot/EA6/EA3/EA1/EA2/EA492.htm", "175.png", "186", "0", "", "Logical diagram0","{7F4869C4-E3A1-4a72-B68D-3B2D5E2CA427}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2:3", "", "Oversikt Objekttyper med tydelige fellestrekk", "EARoot/EA6/EA3/EA1/EA2/EA494.htm", "175.png", "185", "0", "", "Logical diagram0","{21AFA070-9938-443b-A2A8-1F4DB8AB4C07}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2:4", "", "Retning", "EARoot/EA6/EA3/EA1/EA2/EA496.htm", "175.png", "184", "0", "", "Logical diagram0","{EA568E95-9D17-4080-9DB6-588A771CF273}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2.1", "1", "Avgrensningslinjer", "EARoot/EA6/EA3/EA1/EA2/EA1/EA504.htm", "4.png", "", "", "{7777B671-375A-4075-9C7C-2E560E9160FD}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3.1.2.2", "1", "Retning", "EARoot/EA6/EA3/EA1/EA2/EA2/EA511.htm", "4.png", "", "", "{424DFAC6-2821-4a03-AFBB-1D200F004F73}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3.1.2.3", "1", "Kartblad", "EARoot/EA6/EA3/EA1/EA2/EA3/EA517.htm", "4.png", "", "", "{365A981A-A78B-4383-A9A5-23A3E7C1B005}", "Package");

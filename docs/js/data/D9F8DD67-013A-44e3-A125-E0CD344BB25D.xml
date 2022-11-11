@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.1:1", "", "Figure X - ISO 19109 Informal UML profile", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA1/EA261.htm", "175.png", "157", "0", "", "Logical diagram0","{E604D25A-03E3-43bf-9665-ABF9A3A7E26F}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.1:2", "", "«stereotype» ApplicationSchema", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA1/EA264.htm", "5.png", "E682", "0", "", "Class0","{30268E56-E82F-4d0f-A32A-F36DE14F18DF}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.1:3", "", "«stereotype» Estimated", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA1/EA265.htm", "5.png", "E681", "0", "", "Class0","{23DA300E-A14E-4e01-BD37-21E07C8E5C6C}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.1:4", "", "«stereotype» FeatureType", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA1/EA266.htm", "5.png", "E680", "0", "", "Class0","{11275C5A-9FD1-4e7a-88CD-5AA2E0E25765}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.1:5", "", "«stereotype» PropertyType", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA1/EA267.htm", "5.png", "E683", "0", "", "Class0","{353FCEB9-293B-4c9a-BB75-64A8C1663826}");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Oversikt", "EARoot/EA1/EA10.htm", "4.png", "", "", "{9D9E05FD-9A88-4fd2-BEEA-EFD6E06A25FB}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Fellesmodell", "EARoot/EA2/EA11.htm", "4.png", "", "", "{0C794607-5343-4caa-A2EB-D1DC85DBE070}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Leverandører", "EARoot/EA3/EA67.htm", "4.png", "", "", "{B2A79BD0-D3DC-452f-AEC7-60C40516DAB4}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Mottakere", "EARoot/EA4/EA78.htm", "4.png", "", "", "{D15604AE-5FC4-461a-8712-C25AB1B3967E}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Mapping til mottaker", "EARoot/EA5/EA168.htm", "4.png", "", "", "{6F282889-D5A9-4433-AF04-BEBA9EF0783F}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "1", "Støtte-modeller", "EARoot/EA6/EA208.htm", "4.png", "", "", "{C838EDBD-F238-4fb1-BCD9-B3D65B89162B}", "Package");

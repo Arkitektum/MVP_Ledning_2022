@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.1", "1", "«profile» ISO 19109 Informal UML profile", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA1/EA263.htm", "4.png", "", "", "{D9F8DD67-013A-44e3-A125-E0CD344BB25D}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.2.2", "1", "«profile» ISO 19136 Informal UML profile", "EARoot/EA6/EA1/EA1/EA1/EA1/EA2/EA2/EA270.htm", "4.png", "", "", "{268B115E-7949-4827-97D3-7F2721209A3C}", "Package");

@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.4.1:1", "", "NKOM_M2M", "EARoot/EA4/EA1/EA82.htm", "175.png", "130", "0", "", "Logical diagram0","{4BE50580-5D6B-4f9a-8F89-6BFFE84EBE85}");
+tocTab[tocTab.length] = new Array("0.4.1:2", "", "«featureType» Infrastrukturobjekt", "EARoot/EA4/EA1/EA85.htm", "5.png", "E577", "0", "", "Class0","{77C0C0BF-2C11-4472-9771-781EBF537A16}");
+tocTab[tocTab.length] = new Array("0.4.1:3", "", "«union» Nkom_geometri", "EARoot/EA4/EA1/EA86.htm", "5.png", "E578", "0", "", "Class0","{81002239-BFBE-4307-91A8-EF9B299908CF}");
+tocTab[tocTab.length] = new Array("0.4.1:4", "", "«codeList» Nkom_Status", "EARoot/EA4/EA1/EA87.htm", "5.png", "E580", "0", "", "Class0","{EEF1899B-15BA-4e7d-B126-073BE5ED5AEE}");
+tocTab[tocTab.length] = new Array("0.4.1:5", "", "«codeList» Type", "EARoot/EA4/EA1/EA88.htm", "5.png", "E579", "0", "", "Class0","{E2E00D9D-C5A2-4233-BBBE-615B74731183}");
+tocTab[tocTab.length] = new Array("0.4.1:6", "", "Utledes automatisk av mottaker", "EARoot/EA4/EA1/EA89.htm", "5.png", "E575", "0", "", "Class0","{38E889B0-EFBC-4ddf-9DE3-D2D4139A25E4}");
+tocTab[tocTab.length] = new Array("0.4.1:7", "", "«CodeList» Målemetode", "EARoot/EA4/EA1/EA90.htm", "5.png", "E576", "0", "", "Class0","{5EB008CE-9AAB-49ac-88CB-F300B8687A3B}");

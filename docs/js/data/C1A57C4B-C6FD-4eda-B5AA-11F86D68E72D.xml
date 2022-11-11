@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.6.1.1.3.1:1", "", "Avgrensningslinjer", "EARoot/EA6/EA1/EA1/EA3/EA1/EA353.htm", "175.png", "170", "0", "", "Logical diagram0","{5F5D61A3-722E-411c-82F6-C292AF65CD25}");
+tocTab[tocTab.length] = new Array("0.6.1.1.3.1:2", "", "«FeatureType» Dataavgrensning", "EARoot/EA6/EA1/EA1/EA3/EA1/EA356.htm", "5.png", "E739", "0", "", "Class0","{FFEEBB9D-FDD9-4eb8-8F86-B25E2B0B5881}");
+tocTab[tocTab.length] = new Array("0.6.1.1.3.1:3", "", "«FeatureType» FiktivDelelinje", "EARoot/EA6/EA1/EA1/EA3/EA1/EA357.htm", "5.png", "E737", "0", "", "Class0","{E5D5E0D4-143C-4856-A801-0DA5AAA54C33}");
+tocTab[tocTab.length] = new Array("0.6.1.1.3.1:4", "", "«FeatureType» KantUtsnitt", "EARoot/EA6/EA1/EA1/EA3/EA1/EA358.htm", "5.png", "E736", "0", "", "Class0","{48345AE9-19CF-49dc-ABDE-EA2A4BD7E340}");
+tocTab[tocTab.length] = new Array("0.6.1.1.3.1:5", "", "«FeatureType» Temakartavgrensning", "EARoot/EA6/EA1/EA1/EA3/EA1/EA359.htm", "5.png", "E738", "0", "", "Class0","{E7240AC7-E16F-4ffd-A7DE-7E117508785C}");

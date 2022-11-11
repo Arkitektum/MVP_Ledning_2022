@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:1", "", "SOSI", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA310.htm", "175.png", "164", "0", "", "Logical diagram0","{C067308A-4023-41d9-8E2E-6524DD5331AF}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:2", "", "«stereotype» ApplicationSchema", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA313.htm", "5.png", "E714", "0", "", "Class0","{510B1108-3857-4eca-8FF0-F3E617C7F7F9}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:3", "", "«stereotype» CodeList", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA314.htm", "5.png", "E718", "0", "", "Class0","{D87A3D6B-E72F-4398-8AD1-81A95082AEEB}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:4", "", "«stereotype» dataType", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA315.htm", "5.png", "E712", "0", "", "Class0","{37A7A5D5-E4B6-42e2-B31B-8619BCB3AB7E}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:5", "", "«metaclass» DataType", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA316.htm", "5.png", "E711", "0", "", "Class0","{261B18C7-66FB-43b3-AE65-CBA6F972039F}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:6", "", "«metaclass» Enumeration", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA317.htm", "5.png", "E715", "0", "", "Class0","{671222C3-F28A-4d37-88D2-B506A251570E}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:7", "", "«stereotype» enumeration", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA318.htm", "5.png", "E710", "0", "", "Class0","{1C1123C2-CF0E-487a-B047-5EB0869C0C0B}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:8", "", "«stereotype» FeatureType", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA319.htm", "5.png", "E709", "0", "", "Class0","{04C43678-5EEE-4e59-B800-7EA55F0C8245}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:9", "", "«stereotype» Kode", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA320.htm", "5.png", "E713", "0", "", "Class0","{3D7F330D-1706-42aa-91EB-1A18B1F0E051}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:10", "", "«stereotype» MessageType", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA321.htm", "5.png", "E716", "0", "", "Class0","{6A39C92E-3870-4742-94F0-965762723B3A}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:11", "", "«stereotype» PropertyType", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA322.htm", "5.png", "E708", "0", "", "Class0","{0401B026-87CB-4453-B7C6-48907BFFE3E1}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1.5.3:12", "", "«stereotype» Rolle", "EARoot/EA6/EA1/EA1/EA1/EA1/EA5/EA3/EA323.htm", "5.png", "E717", "0", "", "Class0","{D8656C1C-51CE-4660-99B3-2C06BF852B64}");
