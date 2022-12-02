@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.6.3.1.2.2:1", "", "Hoveddiagram Retning", "EARoot/EA6/EA3/EA1/EA2/EA2/EA510.htm", "175.png", "309", "0", "", "Logical diagram0","{918DF1C9-DA9C-4afe-9017-0B692DA27FFA}");
-tocTab[tocTab.length] = new Array("0.6.3.1.2.2:2", "", "«dataType» Retning", "EARoot/EA6/EA3/EA1/EA2/EA2/EA513.htm", "5.png", "E1358", "0", "", "Class0","{A6727F42-94C4-453f-BC41-E31AB62C2269}");
-tocTab[tocTab.length] = new Array("0.6.3.1.2.2:3", "", "«CodeList» Retningsenhet", "EARoot/EA6/EA3/EA1/EA2/EA2/EA514.htm", "5.png", "E1357", "0", "", "Class0","{85EAFBB9-D7FE-4d2c-976B-16F40B8CA23C}");
-tocTab[tocTab.length] = new Array("0.6.3.1.2.2:4", "", "«CodeList» Retningsreferanse", "EARoot/EA6/EA3/EA1/EA2/EA2/EA515.htm", "5.png", "E1359", "0", "", "Class0","{A8171A60-FBFD-4c47-841A-93159D9A5FBF}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2.2:1", "", "Hoveddiagram Retning", "EARoot/EA6/EA3/EA1/EA2/EA2/EA495.htm", "175.png", "309", "0", "", "Logical diagram0","{918DF1C9-DA9C-4afe-9017-0B692DA27FFA}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2.2:2", "", "«dataType» Retning", "EARoot/EA6/EA3/EA1/EA2/EA2/EA498.htm", "5.png", "E1358", "0", "", "Class0","{A6727F42-94C4-453f-BC41-E31AB62C2269}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2.2:3", "", "«CodeList» Retningsenhet", "EARoot/EA6/EA3/EA1/EA2/EA2/EA499.htm", "5.png", "E1357", "0", "", "Class0","{85EAFBB9-D7FE-4d2c-976B-16F40B8CA23C}");
+tocTab[tocTab.length] = new Array("0.6.3.1.2.2:4", "", "«CodeList» Retningsreferanse", "EARoot/EA6/EA3/EA1/EA2/EA2/EA500.htm", "5.png", "E1359", "0", "", "Class0","{A8171A60-FBFD-4c47-841A-93159D9A5FBF}");

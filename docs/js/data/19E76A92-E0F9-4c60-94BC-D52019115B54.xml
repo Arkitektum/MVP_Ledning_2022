@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.5.3:1", "", "Mapping_summering_datatyper", "EARoot/EA5/EA3/EA201.htm", "175.png", "269", "0", "", "Logical diagram0","{04994322-D7D1-466e-B7A8-CDA4A3E111BB}");
-tocTab[tocTab.length] = new Array("0.5.3:2", "", "Mapping_summering_kodelister", "EARoot/EA5/EA3/EA203.htm", "175.png", "271", "0", "", "Logical diagram0","{4732A564-4BAD-4eec-B535-76420637DFD1}");
-tocTab[tocTab.length] = new Array("0.5.3:3", "", "Mapping_summering_objekttyper", "EARoot/EA5/EA3/EA205.htm", "175.png", "270", "0", "", "Logical diagram0","{C4305410-FACD-4461-BD4F-9B8D84BBA744}");
+tocTab[tocTab.length] = new Array("0.5.3:1", "", "Mapping_summering_datatyper", "EARoot/EA5/EA3/EA186.htm", "175.png", "269", "0", "", "Logical diagram0","{04994322-D7D1-466e-B7A8-CDA4A3E111BB}");
+tocTab[tocTab.length] = new Array("0.5.3:2", "", "Mapping_summering_kodelister", "EARoot/EA5/EA3/EA188.htm", "175.png", "271", "0", "", "Logical diagram0","{4732A564-4BAD-4eec-B535-76420637DFD1}");
+tocTab[tocTab.length] = new Array("0.5.3:3", "", "Mapping_summering_objekttyper", "EARoot/EA5/EA3/EA190.htm", "175.png", "270", "0", "", "Logical diagram0","{C4305410-FACD-4461-BD4F-9B8D84BBA744}");
