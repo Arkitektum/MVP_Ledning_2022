@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("0.6.4.2.5:1", "", "Trase realisering", "EARoot/EA6/EA4/EA2/EA5/EA822.htm", "175.png", "238", "0", "", "Logical diagram0","{7DFCC7FE-D088-4bcd-B584-F846CC9A5C37}");
-tocTab[tocTab.length] = new Array("0.6.4.2.5:2", "", "«featureType» Framføringsvei", "EARoot/EA6/EA4/EA2/EA5/EA825.htm", "5.png", "E1030", "0", "", "Class0","{F17764AD-304E-439c-973E-09EF3CC7F8A7}");
-tocTab[tocTab.length] = new Array("0.6.4.2.5:3", "", "«featureType» Kanal", "EARoot/EA6/EA4/EA2/EA5/EA826.htm", "5.png", "E1028", "0", "", "Class0","{4DA848A3-80A5-4644-9697-526F023F8541}");
-tocTab[tocTab.length] = new Array("0.6.4.2.5:4", "", "«featureType» Trase", "EARoot/EA6/EA4/EA2/EA5/EA827.htm", "5.png", "E1027", "0", "", "Class0","{353711ED-7DF7-4774-8DD3-D080961EB4F0}");
-tocTab[tocTab.length] = new Array("0.6.4.2.5:5", "", "«dataType» Seilingshøyde", "EARoot/EA6/EA4/EA2/EA5/EA828.htm", "5.png", "E1029", "0", "", "Class0","{56C4485A-CE74-4242-9ED9-3A1F72F9221D}");
+tocTab[tocTab.length] = new Array("0.6.4.2.5:1", "", "Trase realisering", "EARoot/EA6/EA4/EA2/EA5/EA822.htm", "175.png", "358", "0", "", "Logical diagram0","{7DFCC7FE-D088-4bcd-B584-F846CC9A5C37}");
+tocTab[tocTab.length] = new Array("0.6.4.2.5:2", "", "«featureType» Framføringsvei", "EARoot/EA6/EA4/EA2/EA5/EA825.htm", "5.png", "E1553", "0", "", "Class0","{F17764AD-304E-439c-973E-09EF3CC7F8A7}");
+tocTab[tocTab.length] = new Array("0.6.4.2.5:3", "", "«featureType» Kanal", "EARoot/EA6/EA4/EA2/EA5/EA826.htm", "5.png", "E1551", "0", "", "Class0","{4DA848A3-80A5-4644-9697-526F023F8541}");
+tocTab[tocTab.length] = new Array("0.6.4.2.5:4", "", "«featureType» Trase", "EARoot/EA6/EA4/EA2/EA5/EA827.htm", "5.png", "E1550", "0", "", "Class0","{353711ED-7DF7-4774-8DD3-D080961EB4F0}");
+tocTab[tocTab.length] = new Array("0.6.4.2.5:5", "", "«dataType» Seilingshøyde", "EARoot/EA6/EA4/EA2/EA5/EA828.htm", "5.png", "E1552", "0", "", "Class0","{56C4485A-CE74-4242-9ED9-3A1F72F9221D}");

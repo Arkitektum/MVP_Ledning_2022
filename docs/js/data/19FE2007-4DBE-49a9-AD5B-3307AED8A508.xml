@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("0.6.1.1.4:1", "", "Geometrityper", "EARoot/EA6/EA1/EA1/EA4/EA379.htm", "175.png", "173", "0", "", "Logical diagram0","{A255EA1E-53DD-4fba-96D9-38FB7A3D53D1}");
-tocTab[tocTab.length] = new Array("0.6.1.1.4:2", "", "Flate", "EARoot/EA6/EA1/EA1/EA4/EA382.htm", "5.png", "E756", "0", "", "Class0","{D4AB6B14-37C4-4a15-AAEB-78337E86189A}");
-tocTab[tocTab.length] = new Array("0.6.1.1.4:3", "", "Kurve", "EARoot/EA6/EA1/EA1/EA4/EA383.htm", "5.png", "E753", "0", "", "Class0","{11931C16-94D1-4c43-B792-7E12E43A9530}");
-tocTab[tocTab.length] = new Array("0.6.1.1.4:4", "", "Punkt", "EARoot/EA6/EA1/EA1/EA4/EA384.htm", "5.png", "E754", "0", "", "Class0","{1E322E19-02B3-44c0-945C-797693EBF1B1}");
-tocTab[tocTab.length] = new Array("0.6.1.1.4:5", "", "Sverm", "EARoot/EA6/EA1/EA1/EA4/EA385.htm", "5.png", "E755", "0", "", "Class0","{AA1C20D7-9860-4c05-B2E9-6F30B1B3857F}");
+tocTab[tocTab.length] = new Array("0.6.1.1.4:1", "", "Geometrityper", "EARoot/EA6/EA1/EA1/EA4/EA379.htm", "175.png", "293", "0", "", "Logical diagram0","{A255EA1E-53DD-4fba-96D9-38FB7A3D53D1}");
+tocTab[tocTab.length] = new Array("0.6.1.1.4:2", "", "Flate", "EARoot/EA6/EA1/EA1/EA4/EA382.htm", "5.png", "E1279", "0", "", "Class0","{D4AB6B14-37C4-4a15-AAEB-78337E86189A}");
+tocTab[tocTab.length] = new Array("0.6.1.1.4:3", "", "Kurve", "EARoot/EA6/EA1/EA1/EA4/EA383.htm", "5.png", "E1276", "0", "", "Class0","{11931C16-94D1-4c43-B792-7E12E43A9530}");
+tocTab[tocTab.length] = new Array("0.6.1.1.4:4", "", "Punkt", "EARoot/EA6/EA1/EA1/EA4/EA384.htm", "5.png", "E1277", "0", "", "Class0","{1E322E19-02B3-44c0-945C-797693EBF1B1}");
+tocTab[tocTab.length] = new Array("0.6.1.1.4:5", "", "Sverm", "EARoot/EA6/EA1/EA1/EA4/EA385.htm", "5.png", "E1278", "0", "", "Class0","{AA1C20D7-9860-4c05-B2E9-6F30B1B3857F}");

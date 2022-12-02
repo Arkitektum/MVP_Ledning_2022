@@ -1,6 +1,6 @@
-tocTab[tocTab.length] = new Array("0.6.4.2.1:1", "", "Samleskjema", "EARoot/EA6/EA4/EA2/EA1/EA749.htm", "175.png", "226", "0", "", "Logical diagram0","{463EF130-75CC-4f4b-B1C6-9DA1E46432AE}");
-tocTab[tocTab.length] = new Array("0.6.4.2.1:2", "", "Kodelister og datatyper", "EARoot/EA6/EA4/EA2/EA1/EA751.htm", "175.png", "225", "0", "", "Logical diagram0","{14FF1D4F-9B5B-4552-A064-FCCAE3E6D9D4}");
-tocTab[tocTab.length] = new Array("0.6.4.2.1:3", "", "Objekttyper del1", "EARoot/EA6/EA4/EA2/EA1/EA753.htm", "175.png", "229", "0", "", "Logical diagram0","{2EBFCC3B-98B4-4cf3-A74D-EB7E253638C8}");
-tocTab[tocTab.length] = new Array("0.6.4.2.1:4", "", "Objekttyper med alle egenskaper", "EARoot/EA6/EA4/EA2/EA1/EA755.htm", "175.png", "227", "0", "", "Logical diagram0","{6502732A-A007-436b-9933-587C7D00EB0A}");
-tocTab[tocTab.length] = new Array("0.6.4.2.1:5", "", "Objekttyper_del2", "EARoot/EA6/EA4/EA2/EA1/EA757.htm", "175.png", "230", "0", "", "Logical diagram0","{78079266-8B48-41a7-A53F-0F45D9EF6FF5}");
-tocTab[tocTab.length] = new Array("0.6.4.2.1:6", "", "Fellesegenskaper", "EARoot/EA6/EA4/EA2/EA1/EA759.htm", "175.png", "228", "0", "", "Logical diagram0","{81BBC7FF-5EA7-491c-AB17-B1D9BB64B2A9}");
+tocTab[tocTab.length] = new Array("0.6.4.2.1:1", "", "Samleskjema", "EARoot/EA6/EA4/EA2/EA1/EA749.htm", "175.png", "346", "0", "", "Logical diagram0","{463EF130-75CC-4f4b-B1C6-9DA1E46432AE}");
+tocTab[tocTab.length] = new Array("0.6.4.2.1:2", "", "Kodelister og datatyper", "EARoot/EA6/EA4/EA2/EA1/EA751.htm", "175.png", "345", "0", "", "Logical diagram0","{14FF1D4F-9B5B-4552-A064-FCCAE3E6D9D4}");
+tocTab[tocTab.length] = new Array("0.6.4.2.1:3", "", "Objekttyper del1", "EARoot/EA6/EA4/EA2/EA1/EA753.htm", "175.png", "349", "0", "", "Logical diagram0","{2EBFCC3B-98B4-4cf3-A74D-EB7E253638C8}");
+tocTab[tocTab.length] = new Array("0.6.4.2.1:4", "", "Objekttyper med alle egenskaper", "EARoot/EA6/EA4/EA2/EA1/EA755.htm", "175.png", "347", "0", "", "Logical diagram0","{6502732A-A007-436b-9933-587C7D00EB0A}");
+tocTab[tocTab.length] = new Array("0.6.4.2.1:5", "", "Objekttyper_del2", "EARoot/EA6/EA4/EA2/EA1/EA757.htm", "175.png", "350", "0", "", "Logical diagram0","{78079266-8B48-41a7-A53F-0F45D9EF6FF5}");
+tocTab[tocTab.length] = new Array("0.6.4.2.1:6", "", "Fellesegenskaper", "EARoot/EA6/EA4/EA2/EA1/EA759.htm", "175.png", "348", "0", "", "Logical diagram0","{81BBC7FF-5EA7-491c-AB17-B1D9BB64B2A9}");

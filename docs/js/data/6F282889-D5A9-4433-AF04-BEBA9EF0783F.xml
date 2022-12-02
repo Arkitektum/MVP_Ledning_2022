@@ -1,9 +1,9 @@
-tocTab[tocTab.length] = new Array("0.5:1", "", "Mapping_1_Felles_til_NKOM_SOSI_GML", "EARoot/EA5/EA162.htm", "175.png", "144", "0", "", "Logical diagram0","{FFE2300A-9580-40c0-B4F7-D47366FE527F}");
-tocTab[tocTab.length] = new Array("0.5:2", "", "Mapping_2_Felles_til_FKB__Ledning_5.0", "EARoot/EA5/EA164.htm", "175.png", "146", "0", "", "Logical diagram0","{840FA7D0-1689-4497-B35C-180264DAB330}");
-tocTab[tocTab.length] = new Array("0.5:3", "", "Mapping_3_Felles_til_NKOM_m2m", "EARoot/EA5/EA166.htm", "175.png", "145", "0", "", "Logical diagram0","{A076FC9F-A26A-49fd-927A-B266792B9DB1}");
-tocTab[tocTab.length] = new Array("0.5:4", "", "Mapping_1_Ikke_relevant", "EARoot/EA5/EA179.htm", "5.png", "E628", "0", "", "Class0","{E01B7FF0-88E0-4332-B4A6-2F1818263263}");
-tocTab[tocTab.length] = new Array("0.5:5", "", "Mapping_2_Filter", "EARoot/EA5/EA180.htm", "5.png", "E623", "0", "", "Class0","{4E409D96-E03F-4ae6-91F0-D63CC5880379}");
-tocTab[tocTab.length] = new Array("0.5:6", "", "Mapping_2_Ikke_relevant", "EARoot/EA5/EA181.htm", "5.png", "E627", "0", "", "Class0","{C4A3E395-DC59-4ce4-9E5C-6E63ADFEC9B3}");
+tocTab[tocTab.length] = new Array("0.5:1", "", "Mapping_1_Felles_til_NKOM_SOSI_GML", "EARoot/EA5/EA162.htm", "175.png", "264", "0", "", "Logical diagram0","{FFE2300A-9580-40c0-B4F7-D47366FE527F}");
+tocTab[tocTab.length] = new Array("0.5:2", "", "Mapping_2_Felles_til_FKB__Ledning_5.0", "EARoot/EA5/EA164.htm", "175.png", "266", "0", "", "Logical diagram0","{840FA7D0-1689-4497-B35C-180264DAB330}");
+tocTab[tocTab.length] = new Array("0.5:3", "", "Mapping_3_Felles_til_NKOM_m2m", "EARoot/EA5/EA166.htm", "175.png", "265", "0", "", "Logical diagram0","{A076FC9F-A26A-49fd-927A-B266792B9DB1}");
+tocTab[tocTab.length] = new Array("0.5:4", "", "Mapping_1_Ikke_relevant", "EARoot/EA5/EA179.htm", "5.png", "E1151", "0", "", "Class0","{E01B7FF0-88E0-4332-B4A6-2F1818263263}");
+tocTab[tocTab.length] = new Array("0.5:5", "", "Mapping_2_Filter", "EARoot/EA5/EA180.htm", "5.png", "E1146", "0", "", "Class0","{4E409D96-E03F-4ae6-91F0-D63CC5880379}");
+tocTab[tocTab.length] = new Array("0.5:6", "", "Mapping_2_Ikke_relevant", "EARoot/EA5/EA181.htm", "5.png", "E1150", "0", "", "Class0","{C4A3E395-DC59-4ce4-9E5C-6E63ADFEC9B3}");
 tocTab[tocTab.length] = new Array("0.5.1", "1", "Mapping_2_Felles_til_FKB_Ledning_5.0", "EARoot/EA5/EA1/EA192.htm", "4.png", "", "", "{6CA7A48B-1499-4f6f-94D6-0D7F8E1DEEA6}", "Package");
 tocTab[tocTab.length] = new Array("0.5.2", "1", "Mapping Målemetode 4.5 -&gt; 5.1", "EARoot/EA5/EA2/EA199.htm", "4.png", "", "", "{77732C0C-64B7-4801-8218-D207488FD4C0}", "Package");
 tocTab[tocTab.length] = new Array("0.5.3", "1", "Mapping_summering", "EARoot/EA5/EA3/EA206.htm", "4.png", "", "", "{19E76A92-E0F9-4c60-94BC-D52019115B54}", "Package");
