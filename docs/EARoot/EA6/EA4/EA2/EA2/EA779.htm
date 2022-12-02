@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Kjernemodell::Kopling</title>
+<title>Kjernemodell::Ledning</title>
 <link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {	
@@ -34,7 +34,7 @@ function nameClassifier(name, separator)
 <div class="pageHeader"></div>
 <div class="PageBody">
 	<div id="name_classifier" style="display: none;"></div>
-	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Kopling", " : "))</script>  : Public abstract &lt;&lt;featureType&gt;&gt; Class</span>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Ledning", " : "))</script>  : Public abstract &lt;&lt;featureType&gt;&gt; Class</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
@@ -87,14 +87,14 @@ function nameClassifier(name, separator)
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{6A3D6A06-9F8F-4ea1-865C-21364954009E}</td>
+			<td class="ObjectDetailsValue">{A2D85079-516D-46ae-A2C7-8753136D64C5}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="../../EA578.htm">Sammenligning 4.6 - 5.0</a>, <a href="../EA1/EA749.htm">Samleskjema</a>, <a href="EA765.htm">Kjernemodell</a>, <a href="EA767.htm">Kjernemodell realisering</a>, <a href="../EA4/EA790.htm">Kopling</a></td>
+			<td class="ObjectDetailsValue"><a href="../EA1/EA750.htm">Samleskjema</a>, <a href="EA766.htm">Kjernemodell</a>, <a href="EA768.htm">Kjernemodell realisering</a></td>
 		</tr>
 	</table>
-	<div class="ObjectDetailsNotes">generell betegnelse på objekt som er node (punkt) i et ledningsnettverk&lt;br/&gt;</div>
+	<div class="ObjectDetailsNotes">generell betegnelse for langsgående objekt i et ledningsnettverk&lt;br/&gt;</div>
 
 	<div class="TableGroup" id="TableGroup">
 		<ul class="ItemTitle">
@@ -109,43 +109,43 @@ function nameClassifier(name, separator)
 		</tr>
 						<tr>
 				<td width="100%" class="TableRow">
-					<i>Public Punkt</i><br /><strong>&nbsp;&nbsp;posisjon</strong>
+					<i>Public Kurve</i><br /><strong>&nbsp;&nbsp;beliggenhet</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1846')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1846" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1845')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1845" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes1846_00" style="display: none;">
+						<tr id="DetailsImageAttributes1845_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1846_01" style="display: none;">
+						<tr id="DetailsImageAttributes1845_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1846_02" style="display: none;">
+						<tr id="DetailsImageAttributes1845_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1846_03" style="display: none;">
+						<tr id="DetailsImageAttributes1845_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1846_04" style="display: none;">
+						<tr id="DetailsImageAttributes1845_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1846_05" style="display: none;">
+						<tr id="DetailsImageAttributes1845_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes1846_06" style="display: none;">
+						<tr id="DetailsImageAttributes1845_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes1846_07" style="display: none;">
+							<tr id="DetailsImageAttributes1845_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
@@ -158,7 +158,7 @@ function nameClassifier(name, separator)
 			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
 		</td>
 		<td>
-			beskriver koplingens geografiske beliggenhet i form av koordinateene til et punkt&lt;br/&gt;
+			beskriver ledningens geografiske beliggenhet i form av en kurve med koordinater&lt;br/&gt;
 		</td>
 	</tr>
 </table></div>
@@ -191,31 +191,17 @@ function nameClassifier(name, separator)
 					<td width="40%" class="TableHeading">Notes</td>
 				</tr>
 				<tr>
-					<td width="30%" class="TableRow" valign="top"><a href="../EA4/EA801.htm">«featureType» Framføringsnode_enkel</a></td>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA5/EA826.htm">«featureType» Framføringsvei</a></td>
 					<td width="10%" class="TableRow" valign="top">Class</td>
 					<td width="10%" class="TableRow" valign="top">Generalization</td>
 					<td width="10%" class="TableRow" valign="top">From</td>
 					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
 				</tr>
 				<tr>
-					<td width="30%" class="TableRow" valign="top"><a href="../EA4/EA802.htm">«featureType» Framføringsnode_fellesføring</a></td>
-					<td width="10%" class="TableRow" valign="top">Class</td>
-					<td width="10%" class="TableRow" valign="top">Generalization</td>
-					<td width="10%" class="TableRow" valign="top">From</td>
-					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
-				</tr>
-				<tr>
-					<td width="30%" class="TableRow" valign="top"><a href="EA777.htm">«featureType» Nettverkskomponent</a></td>
+					<td width="30%" class="TableRow" valign="top"><a href="EA778.htm">«featureType» Nettverkskomponent</a></td>
 					<td width="10%" class="TableRow" valign="top">Class</td>
 					<td width="10%" class="TableRow" valign="top">Generalization</td>
 					<td width="10%" class="TableRow" valign="top">To</td>
-					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
-				</tr>
-				<tr>
-					<td width="30%" class="TableRow" valign="top"><a href="../../EA1/EA2/EA617.htm">«FeatureType» KoplingPunkt</a></td>
-					<td width="10%" class="TableRow" valign="top">Class</td>
-					<td width="10%" class="TableRow" valign="top">Information Flow</td>
-					<td width="10%" class="TableRow" valign="top">From</td>
 					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
 				</tr>
 

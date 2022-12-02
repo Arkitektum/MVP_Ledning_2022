@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Generelle konsepter::Kopidata</title>
+<title>Generelle konsepter::Endringsflagg</title>
 <link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {	
@@ -34,7 +34,7 @@ function nameClassifier(name, separator)
 <div class="pageHeader"></div>
 <div class="PageBody">
 	<div id="name_classifier" style="display: none;"></div>
-	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Kopidata", " : "))</script>  : Public  &lt;&lt;dataType&gt;&gt; Class</span>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Endringsflagg", " : "))</script> ModificationFlag : Public  &lt;&lt;dataType&gt;&gt; Class</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
@@ -87,14 +87,14 @@ function nameClassifier(name, separator)
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{082E44B5-6A82-4d58-95B4-5A53E6C4D9CC}</td>
+			<td class="ObjectDetailsValue">{A131D01A-26C9-48a7-8789-8930E5E75599}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="EA829.htm">Datatyper og kodelister</a></td>
+			<td class="ObjectDetailsValue"><a href="EA830.htm">Datatyper og kodelister</a></td>
 		</tr>
 	</table>
-	<div class="ObjectDetailsNotes">angivelse av at objektet er hentet fra en kopi av originaldata&lt;br/&gt;</div>
+	<div class="ObjectDetailsNotes">endringsinformasjon om et objekt&lt;br/&gt;</div>
 
 	<div class="TableGroup" id="TableGroup">
 		<ul class="ItemTitle">
@@ -109,56 +109,56 @@ function nameClassifier(name, separator)
 		</tr>
 						<tr>
 				<td width="100%" class="TableRow">
-					<i>Public Integer</i><br /><strong>&nbsp;&nbsp;områdeId</strong>
+					<i>Public <a href="EA849.htm">TypeEndring</a></i><br /><strong>&nbsp;&nbsp;typeEndring</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes2086')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes2086" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes2082')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes2082" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes2086_00" style="display: none;">
+						<tr id="DetailsImageAttributes2082_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
-							<td></td>
+							<td>typeOfModification</td>
 						</tr>
-						<tr id="DetailsImageAttributes2086_01" style="display: none;">
+						<tr id="DetailsImageAttributes2082_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes2086_02" style="display: none;">
+						<tr id="DetailsImageAttributes2082_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes2086_03" style="display: none;">
+						<tr id="DetailsImageAttributes2082_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes2086_04" style="display: none;">
+						<tr id="DetailsImageAttributes2082_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes2086_05" style="display: none;">
+						<tr id="DetailsImageAttributes2082_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes2086_06" style="display: none;">
+						<tr id="DetailsImageAttributes2082_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes2086_07" style="display: none;">
+							<tr id="DetailsImageAttributes2082_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
 					</table>
 					
-					SOSI_datatype=H<br>SOSI_lengde=4<br>SOSI_navn=OMRÅDEID<br>
+					SOSI_datatype=T<br>SOSI_lengde=1<br>SOSI_navn=ENDRET_TYPE<br>
 						<div class="ObjectDetailsNotes"><table>
 	<tr>
 		<td valign="top">
 			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
 		</td>
 		<td>
-			identifikasjon av område som dataene dekker. Angis med kommunenummer eller fylkesnummer. &lt;br/&gt;
+			endringsstatus for objektet&lt;br/&gt;
 		</td>
 	</tr>
 </table></div>
@@ -167,114 +167,56 @@ function nameClassifier(name, separator)
 				</td>
 			</tr>			<tr>
 				<td width="100%" class="TableRow">
-					<i>Public CharacterString</i><br /><strong>&nbsp;&nbsp;originalDatavert</strong>
+					<i>Public Date</i><br /><strong>&nbsp;&nbsp;tidspunktEndring</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes2087')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes2087" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes2083')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes2083" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes2087_00" style="display: none;">
+						<tr id="DetailsImageAttributes2083_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
-							<td></td>
+							<td>timeOfModification</td>
 						</tr>
-						<tr id="DetailsImageAttributes2087_01" style="display: none;">
+						<tr id="DetailsImageAttributes2083_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes2087_02" style="display: none;">
+						<tr id="DetailsImageAttributes2083_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes2087_03" style="display: none;">
+						<tr id="DetailsImageAttributes2083_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes2087_04" style="display: none;">
+						<tr id="DetailsImageAttributes2083_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes2087_05" style="display: none;">
+						<tr id="DetailsImageAttributes2083_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes2087_06" style="display: none;">
+						<tr id="DetailsImageAttributes2083_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes2087_07" style="display: none;">
+							<tr id="DetailsImageAttributes2083_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
 					</table>
 					
-					SOSI_datatype=T<br>SOSI_lengde=100<br>SOSI_navn=ORIGINALDATAVERT<br>
+					SOSI_navn=ENDRET_TID<br>
 						<div class="ObjectDetailsNotes"><table>
 	<tr>
 		<td valign="top">
 			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
 		</td>
 		<td>
-			ansvarlig etat for forvaltning av data&lt;br/&gt;
-		</td>
-	</tr>
-</table></div>
-
-						
-				</td>
-			</tr>			<tr>
-				<td width="100%" class="TableRow">
-					<i>Public Date</i><br /><strong>&nbsp;&nbsp;kopidato</strong>
-				</td>
-			</tr>
-			<tr>
-				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes2088')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes2088" border="0" />Details:</a>
-					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
-					
-						<tr id="DetailsImageAttributes2088_00" style="display: none;">
-							<td width="75"><i>Alias:</i></td>
-							<td></td>
-						</tr>
-						<tr id="DetailsImageAttributes2088_01" style="display: none;">
-							<td width="75"><i>Initial:</i></td>
-							<td></td>
-						</tr>
-						<tr id="DetailsImageAttributes2088_02" style="display: none;">
-							<td width="75"><i>Stereotype: </i></td>
-							<td></td>
-						</tr>
-						<tr id="DetailsImageAttributes2088_03" style="display: none;">
-							<td width="75"><i>Ordered: </i></td>
-							<td></td>
-						</tr>
-						<tr id="DetailsImageAttributes2088_04" style="display: none;">
-							<td width="75"><i>Range: </i></td>
-							<td></td>
-						</tr>
-						<tr id="DetailsImageAttributes2088_05" style="display: none;">
-							<td width="75"><i>Transient: </i></td>
-							<td>False</td>
-						</tr>
-						<tr id="DetailsImageAttributes2088_06" style="display: none;">
-							<td width="75"><i>Derived: </i></td>
-							<td>False</td>
-						</tr>
-							<tr id="DetailsImageAttributes2088_07" style="display: none;">
-							<td width="75"><i>IsID: </i></td>
-						<td>False</td>
-						</tr>
-					</table>
-					
-					SOSI_navn=KOPIDATO<br>
-						<div class="ObjectDetailsNotes"><table>
-	<tr>
-		<td valign="top">
-			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
-		</td>
-		<td>
-			dato når objektet ble kopiert fra originaldatasettet &lt;br/&gt;
+			tidspunkt for endring av objektet&lt;br/&gt;
 		</td>
 	</tr>
 </table></div>
@@ -296,8 +238,8 @@ function nameClassifier(name, separator)
 			</tr>	
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="2">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2089" onclick="parent.toggleDiv('detailsDIVScenario2089','DetailsImageScenario2089')" />Details:
-						<div id="detailsDIVScenario2089" class="DetailsDiv" >
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2084" onclick="parent.toggleDiv('detailsDIVScenario2084','DetailsImageScenario2084')" />Details:
+						<div id="detailsDIVScenario2084" class="DetailsDiv" >
 						&nbsp;
 						</div>
 					</div>
@@ -308,20 +250,8 @@ function nameClassifier(name, separator)
 			</tr>	
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="2">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2090" onclick="parent.toggleDiv('detailsDIVScenario2090','DetailsImageScenario2090')" />Details:
-						<div id="detailsDIVScenario2090" class="DetailsDiv" >
-						&nbsp;
-						</div>
-					</div>
-				</td>
-			</tr>			<tr>
-				<td width="50%" class="TableRow" valign="top">SOSI_navn</td>
-				<td width="50%" class="TableRow" valign="top">KOPIDATA</td>
-			</tr>	
-			<tr>
-				<td class="TableRowBottomDashed"  colspan="2">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2091" onclick="parent.toggleDiv('detailsDIVScenario2091','DetailsImageScenario2091')" />Details:
-						<div id="detailsDIVScenario2091" class="DetailsDiv" >
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario2085" onclick="parent.toggleDiv('detailsDIVScenario2085','DetailsImageScenario2085')" />Details:
+						<div id="detailsDIVScenario2085" class="DetailsDiv" >
 						&nbsp;
 						</div>
 					</div>

@@ -1,6 +1,6 @@
-tocTab[tocTab.length] = new Array("0.6.1.1.6.1:1", "", "Spesielle linjer, punkter", "EARoot/EA6/EA1/EA1/EA6/EA1/EA409.htm", "175.png", "297", "0", "", "Logical diagram0","{46600667-0683-4b6e-9C21-6FBD73DC7AB4}");
-tocTab[tocTab.length] = new Array("0.6.1.1.6.1:2", "", "«featureType» Fritekstkart", "EARoot/EA6/EA1/EA1/EA6/EA1/EA412.htm", "5.png", "E1295", "0", "", "Class0","{15E38D6B-D230-4e86-8F07-1279C36C1618}");
-tocTab[tocTab.length] = new Array("0.6.1.1.6.1:3", "", "«featureType» Isogon", "EARoot/EA6/EA1/EA1/EA6/EA1/EA413.htm", "5.png", "E1296", "0", "", "Class0","{5ECC040D-6F3D-44f2-B90A-DEBBC699DCCB}");
-tocTab[tocTab.length] = new Array("0.6.1.1.6.1:4", "", "«featureType» Isolinje", "EARoot/EA6/EA1/EA1/EA6/EA1/EA414.htm", "5.png", "E1298", "0", "", "Class0","{CF2B7817-4C14-414f-A871-A993AB03A22B}");
-tocTab[tocTab.length] = new Array("0.6.1.1.6.1:5", "", "«featureType» Isoterm", "EARoot/EA6/EA1/EA1/EA6/EA1/EA415.htm", "5.png", "E1299", "0", "", "Class0","{F070AE7F-53C9-49da-B82C-7120C2ED7F5E}");
-tocTab[tocTab.length] = new Array("0.6.1.1.6.1:6", "", "«featureType» SpesiellDetalj", "EARoot/EA6/EA1/EA1/EA6/EA1/EA416.htm", "5.png", "E1297", "0", "", "Class0","{A6BE46DD-1928-423a-BA72-3B0E363B326E}");
+tocTab[tocTab.length] = new Array("0.6.1.1.6.1:1", "", "Spesielle linjer, punkter", "EARoot/EA6/EA1/EA1/EA6/EA1/EA410.htm", "175.png", "297", "0", "", "Logical diagram0","{46600667-0683-4b6e-9C21-6FBD73DC7AB4}");
+tocTab[tocTab.length] = new Array("0.6.1.1.6.1:2", "", "«featureType» Fritekstkart", "EARoot/EA6/EA1/EA1/EA6/EA1/EA413.htm", "5.png", "E1295", "0", "", "Class0","{15E38D6B-D230-4e86-8F07-1279C36C1618}");
+tocTab[tocTab.length] = new Array("0.6.1.1.6.1:3", "", "«featureType» Isogon", "EARoot/EA6/EA1/EA1/EA6/EA1/EA414.htm", "5.png", "E1296", "0", "", "Class0","{5ECC040D-6F3D-44f2-B90A-DEBBC699DCCB}");
+tocTab[tocTab.length] = new Array("0.6.1.1.6.1:4", "", "«featureType» Isolinje", "EARoot/EA6/EA1/EA1/EA6/EA1/EA415.htm", "5.png", "E1298", "0", "", "Class0","{CF2B7817-4C14-414f-A871-A993AB03A22B}");
+tocTab[tocTab.length] = new Array("0.6.1.1.6.1:5", "", "«featureType» Isoterm", "EARoot/EA6/EA1/EA1/EA6/EA1/EA416.htm", "5.png", "E1299", "0", "", "Class0","{F070AE7F-53C9-49da-B82C-7120C2ED7F5E}");
+tocTab[tocTab.length] = new Array("0.6.1.1.6.1:6", "", "«featureType» SpesiellDetalj", "EARoot/EA6/EA1/EA1/EA6/EA1/EA417.htm", "5.png", "E1297", "0", "", "Class0","{A6BE46DD-1928-423a-BA72-3B0E363B326E}");

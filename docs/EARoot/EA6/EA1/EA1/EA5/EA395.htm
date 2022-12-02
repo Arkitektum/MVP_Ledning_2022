@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>TekstOgSymbol::Tekstdimensjon</title>
+<title>TekstOgSymbol::Symbolobjekt</title>
 <link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {	
@@ -34,7 +34,7 @@ function nameClassifier(name, separator)
 <div class="pageHeader"></div>
 <div class="PageBody">
 	<div id="name_classifier" style="display: none;"></div>
-	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Tekstdimensjon", " : "))</script>  : Public  &lt;&lt;dataType&gt;&gt; Class</span>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Symbolobjekt", " : "))</script>  : Public abstract &lt;&lt;FeatureType&gt;&gt; Class</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
@@ -87,19 +87,20 @@ function nameClassifier(name, separator)
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{B8B2CC0D-E2C1-4995-99D9-1068B85473FA}</td>
+			<td class="ObjectDetailsValue">{EA951606-1878-454a-8CF1-3F4AE89AF949}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="EA388.htm">Hoveddiagram TekstOgSymbol</a></td>
+			<td class="ObjectDetailsValue"><a href="EA389.htm">Hoveddiagram TekstOgSymbol</a>, <a href="EA387.htm">EksemplerPåBrukAvTekstOgSymbol</a></td>
 		</tr>
 	</table>
-	<div class="ObjectDetailsNotes">bokstavenes eller symbolenes bredde og høyde i millimeter på kartet pr. bokstav. Høyde regnes fra bunnlinje til øvre kant. Merknad: Dersom bredde ikke er oppgitt, benyttes standard bredde for den gitte teksthøyden jfr. fonten.&lt;br/&gt;&lt;br/&gt;</div>
+	<div class="ObjectDetailsNotes">abstrakt objekttype som ved subtyping vil ta vare på symbolinformasjon fra alle hisoriske datasett på SOSI-format&lt;br/&gt;</div>
 
 	<div class="TableGroup" id="TableGroup">
 		<ul class="ItemTitle">
 			<li onClick="parent.toggleItem('Attributes');" id="AttributesTitle">Attributes</li>
 			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+			<li onClick="parent.toggleItem('Links');" id="LinksTitle">Other Links</li>
 		</ul>
 <div class="ItemBody" id="AttributesTable">
 	<table border="0" cellspacing="0" cellpadding="0" class="Table">
@@ -108,43 +109,43 @@ function nameClassifier(name, separator)
 		</tr>
 						<tr>
 				<td width="100%" class="TableRow">
-					<i>Public Real</i><br /><strong>&nbsp;&nbsp;teksthøyde</strong>
+					<i>Public GM_Point</i><br /><strong>&nbsp;&nbsp;symbolplassering</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes806')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes806" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes804')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes804" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes806_00" style="display: none;">
+						<tr id="DetailsImageAttributes804_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes806_01" style="display: none;">
+						<tr id="DetailsImageAttributes804_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes806_02" style="display: none;">
+						<tr id="DetailsImageAttributes804_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes806_03" style="display: none;">
+						<tr id="DetailsImageAttributes804_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes806_04" style="display: none;">
+						<tr id="DetailsImageAttributes804_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
-							<td></td>
+							<td>Range:0 to 1</td>
 						</tr>
-						<tr id="DetailsImageAttributes806_05" style="display: none;">
+						<tr id="DetailsImageAttributes804_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes806_06" style="display: none;">
+						<tr id="DetailsImageAttributes804_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes806_07" style="display: none;">
+							<tr id="DetailsImageAttributes804_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
@@ -157,7 +158,7 @@ function nameClassifier(name, separator)
 			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
 		</td>
 		<td>
-			bokstavenes eller symbolenes høyde i millimeter på kartet pr. bokstav. Høyde regnes fra bunnlinje til øvre kant&lt;br/&gt;&lt;br/&gt;Eksempel: 6,2&lt;br/&gt;&lt;br/&gt;
+			plassering av symbolet&lt;br/&gt;
 		</td>
 	</tr>
 </table></div>
@@ -166,43 +167,43 @@ function nameClassifier(name, separator)
 				</td>
 			</tr>			<tr>
 				<td width="100%" class="TableRow">
-					<i>Public Real</i><br /><strong>&nbsp;&nbsp;tekstbredde</strong>
+					<i>Public <a href="EA394.htm">Symbolformatering</a></i><br /><strong>&nbsp;&nbsp;symbolisering</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes807')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes807" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes805')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes805" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes807_00" style="display: none;">
+						<tr id="DetailsImageAttributes805_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes807_01" style="display: none;">
+						<tr id="DetailsImageAttributes805_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes807_02" style="display: none;">
+						<tr id="DetailsImageAttributes805_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes807_03" style="display: none;">
+						<tr id="DetailsImageAttributes805_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes807_04" style="display: none;">
+						<tr id="DetailsImageAttributes805_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes807_05" style="display: none;">
+						<tr id="DetailsImageAttributes805_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes807_06" style="display: none;">
+						<tr id="DetailsImageAttributes805_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes807_07" style="display: none;">
+							<tr id="DetailsImageAttributes805_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
@@ -215,7 +216,7 @@ function nameClassifier(name, separator)
 			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
 		</td>
 		<td>
-			bokstavenes eller symbolenes bredde i millimeter på kartet pr. bokstav&lt;br/&gt;&lt;br/&gt;Eksempel: 4,0&lt;br/&gt;
+			formatering av symbolet&lt;br/&gt;
 		</td>
 	</tr>
 </table></div>
@@ -238,7 +239,26 @@ function nameClassifier(name, separator)
 
 
 			</table>
-		</div>	</div>
+		</div>		<div class="ItemBody" id="LinksTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Object</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Connection</td>
+					<td width="10%" class="TableHeading">Direction</td>
+					<td width="40%" class="TableHeading">Notes</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="EA392.htm">«featureType» Grensemerkesymbol</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
 <div class="pageFooter"></div>
  
 </body>

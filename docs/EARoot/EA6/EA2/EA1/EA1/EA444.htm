@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title></title>
+<title>NKOM_komplett</title>
 <link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {	
@@ -34,15 +34,15 @@ function nameClassifier(name, separator)
 <div class="pageHeader"></div>
 <div class="PageBody">
 	<div id="name_classifier" style="display: none;"></div>
-	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("", " : "))</script>  : Public   Note</span>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("NKOM_komplett", " : "))</script>  : Public  &lt;&lt;applicationSchema&gt;&gt; Package</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
-			<td width="85%" class="ObjectDetailsValue">19.10.2022 10:08:01</td>
+			<td width="85%" class="ObjectDetailsValue">14.10.2022 14:53:03</td>
 		</tr>
 		<tr>
 			<td class="ObjectDetailsTopic">Modified:</td>
-			<td class="ObjectDetailsValue">19.10.2022 12:00:46</td>
+			<td class="ObjectDetailsValue">26.10.2022 19:52:43</td>
 		</tr>
 		<tr style="height: 10px"><td colspan="2"></td></tr>
 		<tr>
@@ -87,15 +87,131 @@ function nameClassifier(name, separator)
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{369B93B5-4201-4180-9E69-F0347F65CE65}</td>
+			<td class="ObjectDetailsValue">{0D9A0B66-9BD5-493c-8D24-0C7EA2C78FC6}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="EA441.htm">NKOM</a></td>
+			<td class="ObjectDetailsValue"></td>
 		</tr>
 	</table>
-	<div class="ObjectDetailsNotes">&lt;b&gt;Kilde: &lt;/b&gt;&lt;a href=&quot;file://https://ekomportalstorageacc.blob.core.windows.net/ekomportalen/manuals/Brukermanual%20ekomportalen%20-%20datamodell%20og%20import%20muligheter.pdf&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;&lt;u&gt;https://ekomportalstorageacc.blob.core.windows.net/ekomportalen/manuals/Brukermanual%20ekomportalen%20-%20datamodell%20og%20import%20muligheter.pd&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;b&gt;f&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;I dokumentasjon fra NKOM - eksempelfil SOSI-GML:&lt;/b&gt;&lt;br/&gt;- objekttypenavn: &lt;b&gt;&lt;i&gt;Infrastruktur&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;- attributter med norsk navn: &lt;b&gt;Navn&lt;/b&gt;, &lt;b&gt;Type&lt;/b&gt;, &lt;b&gt;StartDato&lt;/b&gt;, &lt;b&gt;SluttDato&lt;/b&gt;, &lt;br/&gt;- &lt;b&gt;identifikasjon&lt;/b&gt; som SOSI, dvs datatypen Identifikasjon&lt;br/&gt;- &lt;b&gt;kvalitet&lt;/b&gt; som i SOSI, dvs datatypen med 6 ledd&lt;br/&gt;- Attributter med type Kommentar,&lt;br/&gt;&lt;br/&gt;&lt;b&gt;I NKOM-XSD-fil refert i lenken over:&lt;/b&gt;&lt;br/&gt;- objekttypenavn: &lt;b&gt;&lt;i&gt;Infrastruktur&lt;/i&gt;&lt;/b&gt;&lt;br/&gt;- objekttype-attributter som i eksempelfil&lt;br/&gt;- identifikasjon kun med to attributter (lokalId og navnerom), dvs innsnevra i forhold til SOSI&lt;br/&gt;- kvalitet kun med to attributter (m&#229;lemetode og n&#248;yaktighet), dvs innsnevra i forhold til SOSI&lt;br/&gt;- attributt: Attributter med &lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;#lt;any#gt; som mulighet!!!!&lt;/b&gt;&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</div>
+	
+	<div class="TableGroup" id="TableGroup">
+		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
+		</ul>
+<div class="ItemBody" id="TaggedValTable">
+	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+		<tr>
+			<td width="50%" class="TableHeading">Tag</td>
+			<td width="50%" class="TableHeading">Value</td>
+		</tr>
+					<tr>
+				<td width="50%" class="TableRow" valign="top">SOSI_modellstatus</td>
+				<td width="50%" class="TableRow" valign="top">under arbeid</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1015" onclick="parent.toggleDiv('detailsDIVScenario1015','DetailsImageScenario1015')" />Details:
+						<div id="detailsDIVScenario1015" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: under arbeid,forslag,slettes,utelat,godkjent,vedtatt,erstattet<br />Default: under arbeid<br />Description: styrer status på en spesifikasjon i objektkatalog (alternativ så vil stereotype vise status og applicationschema tolkes som vedtatt) - hvis modellstatus settes til slettes eller utelat så vil ikke denne pakken og dens innhold indekseres for søk i objektkatalog<br /></div>
 
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">SOSI_produktgruppe</td>
+				<td width="50%" class="TableRow" valign="top">produktspes</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1016" onclick="parent.toggleDiv('detailsDIVScenario1016','DetailsImageScenario1016')" />Details:
+						<div id="detailsDIVScenario1016" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: sosi,produktspes,fagområde,fkb,kartdata,arealis,arealplan,vegdata<br />Default: produktspes<br />Description: Brukes til katalogstruktur for def filer<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">SOSI_spesifikasjonstype</td>
+				<td width="50%" class="TableRow" valign="top">produktspesifikasjon</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1017" onclick="parent.toggleDiv('detailsDIVScenario1017','DetailsImageScenario1017')" />Details:
+						<div id="detailsDIVScenario1017" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: produktspesifikasjon,fagområde<br />Default: produktspesifikasjon<br />Description: Brukes til å formatere Word tabeller i Syntaks rapport. Standard kolonne er ikke med når det er en produktspesifikasjon. Ved fagområde så blir SOSI_Objekt lagt til INKLUDER på alle objektdefenisjoner<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">targetNamespace</td>
+				<td width="50%" class="TableRow" valign="top">&lt;a href=&quot;http://skjema.geonorge.no/legg_inn_riktig_url&quot; target=&quot;_blank&quot; &gt;http://skjema.geonorge.no/legg_inn_riktig_url&lt;/a&gt;</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1018" onclick="parent.toggleDiv('detailsDIVScenario1018','DetailsImageScenario1018')" />Details:
+						<div id="detailsDIVScenario1018" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Default: http://skjema.geonorge.no/legg_inn_riktig_url<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">version</td>
+				<td width="50%" class="TableRow" valign="top">1.0</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1019" onclick="parent.toggleDiv('detailsDIVScenario1019','DetailsImageScenario1019')" />Details:
+						<div id="detailsDIVScenario1019" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Default: 1.0<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">xmlns</td>
+				<td width="50%" class="TableRow" valign="top">app</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1020" onclick="parent.toggleDiv('detailsDIVScenario1020','DetailsImageScenario1020')" />Details:
+						<div id="detailsDIVScenario1020" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Default: app<br />Description: Namespace prefix (or) the abbreviated short form&nbsp;<WBR> <br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">xsdDocument</td>
+				<td width="50%" class="TableRow" valign="top">filnavn.xsd</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1021" onclick="parent.toggleDiv('detailsDIVScenario1021','DetailsImageScenario1021')" />Details:
+						<div id="detailsDIVScenario1021" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Default: filnavn.xsd<br />Description: Valid file name or relative file name of the XSD f<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>			<tr>
+				<td width="50%" class="TableRow" valign="top">xsdEncodingRule</td>
+				<td width="50%" class="TableRow" valign="top">sosi</td>
+			</tr>	
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="2">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1022" onclick="parent.toggleDiv('detailsDIVScenario1022','DetailsImageScenario1022')" />Details:
+						<div id="detailsDIVScenario1022" class="DetailsDiv" >
+						<div class="ObjectDetailsNotes">Values: sosi,iso19136_2007,iso19136_2007_ShapeChange_1.0_Extensions,iso19136_2007_INSPIRE_Extensions,iso19139_2007,gml33,citygml-ade,metadata-profile,gsip<br />Default: sosi<br />Description: XML Schema encoding rule to apply<br /></div>
+
+						</div>
+					</div>
+				</td>
+			</tr>
+	</table>
+</div>	</div>
 <div class="pageFooter"></div>
  
 </body>

@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("0.6.1.1.1:1", "", "SOSI-UML-profil", "EARoot/EA6/EA1/EA1/EA1/EA223.htm", "175.png", "272", "0", "", "Logical diagram0","{7B71808F-F861-4ed3-A8BB-8E0E9A0AECC0}");
-tocTab[tocTab.length] = new Array("0.6.1.1.1.1", "1", "SOSI UML profil", "EARoot/EA6/EA1/EA1/EA1/EA1/EA227.htm", "4.png", "", "", "{24F9CAC2-4475-42d7-995F-2DA76C7ADB7E}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.1:1", "", "SOSI-UML-profil", "EARoot/EA6/EA1/EA1/EA1/EA224.htm", "175.png", "272", "0", "", "Logical diagram0","{7B71808F-F861-4ed3-A8BB-8E0E9A0AECC0}");
+tocTab[tocTab.length] = new Array("0.6.1.1.1.1", "1", "SOSI UML profil", "EARoot/EA6/EA1/EA1/EA1/EA1/EA228.htm", "4.png", "", "", "{24F9CAC2-4475-42d7-995F-2DA76C7ADB7E}", "Package");

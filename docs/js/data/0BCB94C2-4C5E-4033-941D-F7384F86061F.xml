@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("0.6.3.1.1", "1", "SOSI_Fellesegenskaper og SOSI_Objekt", "EARoot/EA6/EA3/EA1/EA1/EA475.htm", "4.png", "", "", "{5D492887-E90F-489d-886D-35490AFEA1CD}", "Package");
-tocTab[tocTab.length] = new Array("0.6.3.1.2", "1", "Objekttyper med tydelige fellestrekk", "EARoot/EA6/EA3/EA1/EA2/EA498.htm", "4.png", "", "", "{11F0CC8F-77D6-4f77-85CF-E56CC3991E47}", "Package");
-tocTab[tocTab.length] = new Array("0.6.3.1.3", "1", "Geometrityper", "EARoot/EA6/EA3/EA1/EA3/EA530.htm", "4.png", "", "", "{433C5DFC-6A38-4b88-AB2C-B9754E96CD82}", "Package");
-tocTab[tocTab.length] = new Array("0.6.3.1.4", "1", "TekstOgSymbol", "EARoot/EA6/EA3/EA1/EA4/EA539.htm", "4.png", "", "", "{8466AB4D-589C-4f19-81BE-E337D5D379FC}", "Package");
-tocTab[tocTab.length] = new Array("0.6.3.1.5", "1", "Domenespesifikke generelle typer (under utfasing)", "EARoot/EA6/EA3/EA1/EA5/EA554.htm", "4.png", "", "", "{98184586-651B-4fc6-9F6F-58534FF505D8}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3.1.1", "1", "SOSI_Fellesegenskaper og SOSI_Objekt", "EARoot/EA6/EA3/EA1/EA1/EA476.htm", "4.png", "", "", "{5D492887-E90F-489d-886D-35490AFEA1CD}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3.1.2", "1", "Objekttyper med tydelige fellestrekk", "EARoot/EA6/EA3/EA1/EA2/EA499.htm", "4.png", "", "", "{11F0CC8F-77D6-4f77-85CF-E56CC3991E47}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3.1.3", "1", "Geometrityper", "EARoot/EA6/EA3/EA1/EA3/EA531.htm", "4.png", "", "", "{433C5DFC-6A38-4b88-AB2C-B9754E96CD82}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3.1.4", "1", "TekstOgSymbol", "EARoot/EA6/EA3/EA1/EA4/EA540.htm", "4.png", "", "", "{8466AB4D-589C-4f19-81BE-E337D5D379FC}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3.1.5", "1", "Domenespesifikke generelle typer (under utfasing)", "EARoot/EA6/EA3/EA1/EA5/EA555.htm", "4.png", "", "", "{98184586-651B-4fc6-9F6F-58534FF505D8}", "Package");

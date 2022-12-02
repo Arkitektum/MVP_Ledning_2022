@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.4.3.3:1", "", "Instansierbare objekttyper", "EARoot/EA4/EA3/EA3/EA126.htm", "175.png", "257", "0", "", "Logical diagram0","{79137E53-3BBC-47ba-890B-527347C74E83}");
-tocTab[tocTab.length] = new Array("0.4.3.3:2", "", "Mast - alle egenskaper og realisering", "EARoot/EA4/EA3/EA3/EA128.htm", "175.png", "258", "0", "", "Logical diagram0","{F28D94B8-AD5C-4ce0-8512-87CAC0877E59}");
-tocTab[tocTab.length] = new Array("0.4.3.3:3", "", "«FeatureType» Mast", "EARoot/EA4/EA3/EA3/EA133.htm", "5.png", "E1123", "0", "", "Class0","{AF1363DC-32B1-495e-9B89-D51533D5B54E}");
+tocTab[tocTab.length] = new Array("0.4.3.3:1", "", "Instansierbare objekttyper", "EARoot/EA4/EA3/EA3/EA127.htm", "175.png", "257", "0", "", "Logical diagram0","{79137E53-3BBC-47ba-890B-527347C74E83}");
+tocTab[tocTab.length] = new Array("0.4.3.3:2", "", "Mast - alle egenskaper og realisering", "EARoot/EA4/EA3/EA3/EA129.htm", "175.png", "258", "0", "", "Logical diagram0","{F28D94B8-AD5C-4ce0-8512-87CAC0877E59}");
+tocTab[tocTab.length] = new Array("0.4.3.3:3", "", "«FeatureType» Mast", "EARoot/EA4/EA3/EA3/EA134.htm", "5.png", "E1123", "0", "", "Class0","{AF1363DC-32B1-495e-9B89-D51533D5B54E}");

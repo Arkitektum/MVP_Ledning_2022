@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>ISO 19136 Informal UML profile::PropertyType</title>
+<title>ISO 19136 Informal UML profile::FeatureType</title>
 <link href="../../../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {	
@@ -34,7 +34,7 @@ function nameClassifier(name, separator)
 <div class="pageHeader"></div>
 <div class="PageBody">
 	<div id="name_classifier" style="display: none;"></div>
-	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("PropertyType", " : "))</script>  : Public  &lt;&lt;stereotype&gt;&gt; Class</span>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("FeatureType", " : "))</script>  : Public  &lt;&lt;stereotype&gt;&gt; Class</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
@@ -42,7 +42,7 @@ function nameClassifier(name, separator)
 		</tr>
 		<tr>
 			<td class="ObjectDetailsTopic">Modified:</td>
-			<td class="ObjectDetailsValue">09.07.2014 12:21:47</td>
+			<td class="ObjectDetailsValue">14.10.2015 12:34:31</td>
 		</tr>
 		<tr style="height: 10px"><td colspan="2"></td></tr>
 		<tr>
@@ -87,11 +87,11 @@ function nameClassifier(name, separator)
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{03702D63-9D84-4be6-8220-09E838EEE583}</td>
+			<td class="ObjectDetailsValue">{01C4BF25-36B1-4628-83CA-9750BCF1F738}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="EA268.htm">Figure X - ISO 19136 informal UML profile</a>, <a href="../../EA4/EA286.htm">GML profilarkitektur</a></td>
+			<td class="ObjectDetailsValue"><a href="EA269.htm">Figure X - ISO 19136 informal UML profile</a>, <a href="../../EA4/EA287.htm">GML profilarkitektur</a></td>
 		</tr>
 	</table>
 	
@@ -108,159 +108,139 @@ function nameClassifier(name, separator)
 		</tr>
 						<tr>
 				<td width="100%" class="TableRow">
-					<i>Public int</i><br /><strong>&nbsp;&nbsp;sequenceNumber</strong>
+					<i>Public boolean</i><br /><strong>&nbsp;&nbsp;isCollection</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes553')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes553" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes550')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes550" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes553_00" style="display: none;">
+						<tr id="DetailsImageAttributes550_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes553_01" style="display: none;">
+						<tr id="DetailsImageAttributes550_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes553_02" style="display: none;">
+						<tr id="DetailsImageAttributes550_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes553_03" style="display: none;">
+						<tr id="DetailsImageAttributes550_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes553_04" style="display: none;">
+						<tr id="DetailsImageAttributes550_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
 							<td>Range:0 to 1</td>
 						</tr>
-						<tr id="DetailsImageAttributes553_05" style="display: none;">
+						<tr id="DetailsImageAttributes550_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes553_06" style="display: none;">
+						<tr id="DetailsImageAttributes550_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes553_07" style="display: none;">
+							<tr id="DetailsImageAttributes550_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
 					</table>
 					
 					
-						<div class="ObjectDetailsNotes"><table>
-	<tr>
-		<td valign="top">
-			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
-		</td>
-		<td>
-			sekvensnummer som styrer rekkefølgen på egenskaper og roller i xsd&lt;br/&gt;
-		</td>
-	</tr>
-</table></div>
-
+						&nbsp;
 						
 				</td>
 			</tr>			<tr>
 				<td width="100%" class="TableRow">
-					<i>Public String</i><br /><strong>&nbsp;&nbsp;inLineOrByReference</strong>
+					<i>Public boolean</i><br /><strong>&nbsp;&nbsp;byValuePropertyType</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes554')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes554" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes551')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes551" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes554_00" style="display: none;">
+						<tr id="DetailsImageAttributes551_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes554_01" style="display: none;">
+						<tr id="DetailsImageAttributes551_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes554_02" style="display: none;">
+						<tr id="DetailsImageAttributes551_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes554_03" style="display: none;">
+						<tr id="DetailsImageAttributes551_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes554_04" style="display: none;">
+						<tr id="DetailsImageAttributes551_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
 							<td>Range:0 to 1</td>
 						</tr>
-						<tr id="DetailsImageAttributes554_05" style="display: none;">
+						<tr id="DetailsImageAttributes551_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes554_06" style="display: none;">
+						<tr id="DetailsImageAttributes551_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes554_07" style="display: none;">
+							<tr id="DetailsImageAttributes551_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
 					</table>
 					
 					
-						<div class="ObjectDetailsNotes"><table>
-	<tr>
-		<td valign="top">
-			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
-		</td>
-		<td>
-			hvis propertytypen er en objekttype (FeatureType) er strandardverdien byReference, ellers er den inline&lt;br/&gt;
-		</td>
-	</tr>
-</table></div>
-
+						&nbsp;
 						
 				</td>
 			</tr>			<tr>
 				<td width="100%" class="TableRow">
-					<i>Public boolean</i><br /><strong>&nbsp;&nbsp;isMetadata</strong>
+					<i>Public boolean</i><br /><strong>&nbsp;&nbsp;noPropertyType</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes555')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes555" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes552')" style="text-decoration: none; color: #000000;"><img src="../../../../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes552" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes555_00" style="display: none;">
+						<tr id="DetailsImageAttributes552_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes555_01" style="display: none;">
+						<tr id="DetailsImageAttributes552_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes555_02" style="display: none;">
+						<tr id="DetailsImageAttributes552_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes555_03" style="display: none;">
+						<tr id="DetailsImageAttributes552_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes555_04" style="display: none;">
+						<tr id="DetailsImageAttributes552_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
 							<td>Range:0 to 1</td>
 						</tr>
-						<tr id="DetailsImageAttributes555_05" style="display: none;">
+						<tr id="DetailsImageAttributes552_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes555_06" style="display: none;">
+						<tr id="DetailsImageAttributes552_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes555_07" style="display: none;">
+							<tr id="DetailsImageAttributes552_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
@@ -296,14 +276,21 @@ function nameClassifier(name, separator)
 					<td width="40%" class="TableHeading">Notes</td>
 				</tr>
 				<tr>
-					<td width="30%" class="TableRow" valign="top"><a href="../EA1/EA267.htm">«stereotype» PropertyType</a></td>
+					<td width="30%" class="TableRow" valign="top"><a href="../../EA5/EA1/EA305.htm">«stereotype» FeatureType</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="../EA1/EA267.htm">«stereotype» FeatureType</a></td>
 					<td width="10%" class="TableRow" valign="top">Class</td>
 					<td width="10%" class="TableRow" valign="top">Generalization</td>
 					<td width="10%" class="TableRow" valign="top">To</td>
 					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
 				</tr>
 				<tr>
-					<td width="30%" class="TableRow" valign="top"><a href="../../EA5/EA1/EA305.htm">«stereotype» PropertyType</a></td>
+					<td width="30%" class="TableRow" valign="top"><a href="../../EA5/EA2/EA310.htm">«stereotype» FeatureType</a></td>
 					<td width="10%" class="TableRow" valign="top">Class</td>
 					<td width="10%" class="TableRow" valign="top">Generalization</td>
 					<td width="10%" class="TableRow" valign="top">From</td>

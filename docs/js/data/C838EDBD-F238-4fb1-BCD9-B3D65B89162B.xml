@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.6.1", "1", "SOSI_51_GenerelleTyper", "EARoot/EA6/EA1/EA213.htm", "4.png", "", "", "{CCF7E844-6753-4a45-A1A0-4B5F8E5DBE18}", "Package");
-tocTab[tocTab.length] = new Array("0.6.2", "1", "Andre", "EARoot/EA6/EA2/EA436.htm", "4.png", "", "", "{EEAC923B-5853-4b53-B21E-F6CD917C6576}", "Package");
-tocTab[tocTab.length] = new Array("0.6.3", "1", "SOSI_50_GenerelleTyper", "EARoot/EA6/EA3/EA465.htm", "4.png", "", "", "{89886C8F-0251-4607-A8C4-3167B85D2FC3}", "Package");
-tocTab[tocTab.length] = new Array("0.6.4", "1", "SOSI_Ledning", "EARoot/EA6/EA4/EA580.htm", "4.png", "", "", "{B08EA2EA-39DE-4922-9CFF-92F38A6A3A4E}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1", "1", "SOSI_51_GenerelleTyper", "EARoot/EA6/EA1/EA214.htm", "4.png", "", "", "{CCF7E844-6753-4a45-A1A0-4B5F8E5DBE18}", "Package");
+tocTab[tocTab.length] = new Array("0.6.2", "1", "Andre", "EARoot/EA6/EA2/EA437.htm", "4.png", "", "", "{EEAC923B-5853-4b53-B21E-F6CD917C6576}", "Package");
+tocTab[tocTab.length] = new Array("0.6.3", "1", "SOSI_50_GenerelleTyper", "EARoot/EA6/EA3/EA466.htm", "4.png", "", "", "{89886C8F-0251-4607-A8C4-3167B85D2FC3}", "Package");
+tocTab[tocTab.length] = new Array("0.6.4", "1", "SOSI_Ledning", "EARoot/EA6/EA4/EA581.htm", "4.png", "", "", "{B08EA2EA-39DE-4922-9CFF-92F38A6A3A4E}", "Package");

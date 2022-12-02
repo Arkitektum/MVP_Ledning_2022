@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.6.1.1.6:1", "", "Domenespesifikke generelle typer ", "EARoot/EA6/EA1/EA1/EA6/EA403.htm", "175.png", "296", "0", "", "Logical diagram0","{BFFE8329-CB65-4db6-9595-33EF6ABE6038}");
-tocTab[tocTab.length] = new Array("0.6.1.1.6.1", "1", "Spesielle linjer og punkter", "EARoot/EA6/EA1/EA1/EA6/EA1/EA411.htm", "4.png", "", "", "{ED361C84-6E10-48f5-9D54-9619172D4C22}", "Package");
-tocTab[tocTab.length] = new Array("0.6.1.1.6.2", "1", "INON_Inngrep", "EARoot/EA6/EA1/EA1/EA6/EA2/EA419.htm", "4.png", "", "", "{88FA3210-2E8E-4366-8853-AACAD1D71805}", "Package");
-tocTab[tocTab.length] = new Array("0.6.1.1.6.3", "1", "Tilgjengelighetsdata", "EARoot/EA6/EA1/EA1/EA6/EA3/EA425.htm", "4.png", "", "", "{EE39828E-EC0F-4c79-AD81-53D3E3FD57C5}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.6:1", "", "Domenespesifikke generelle typer ", "EARoot/EA6/EA1/EA1/EA6/EA404.htm", "175.png", "296", "0", "", "Logical diagram0","{BFFE8329-CB65-4db6-9595-33EF6ABE6038}");
+tocTab[tocTab.length] = new Array("0.6.1.1.6.1", "1", "Spesielle linjer og punkter", "EARoot/EA6/EA1/EA1/EA6/EA1/EA412.htm", "4.png", "", "", "{ED361C84-6E10-48f5-9D54-9619172D4C22}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.6.2", "1", "INON_Inngrep", "EARoot/EA6/EA1/EA1/EA6/EA2/EA420.htm", "4.png", "", "", "{88FA3210-2E8E-4366-8853-AACAD1D71805}", "Package");
+tocTab[tocTab.length] = new Array("0.6.1.1.6.3", "1", "Tilgjengelighetsdata", "EARoot/EA6/EA1/EA1/EA6/EA3/EA426.htm", "4.png", "", "", "{EE39828E-EC0F-4c79-AD81-53D3E3FD57C5}", "Package");

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>SOSI_Fellesegenskaper og SOSI_Objekt::Identifikasjon</title>
+<title>SOSI_Fellesegenskaper og SOSI_Objekt::SOSI_Fellesegenskaper</title>
 <link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {	
@@ -34,7 +34,7 @@ function nameClassifier(name, separator)
 <div class="pageHeader"></div>
 <div class="PageBody">
 	<div id="name_classifier" style="display: none;"></div>
-	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("Identifikasjon", " : "))</script> Identification : Public  &lt;&lt;dataType&gt;&gt; Class</span>
+	<span class="ObjectTitle"><script type="text/javascript">document.write(nameClassifier("SOSI_Fellesegenskaper", " : "))</script>  : Public abstract &lt;&lt;FeatureType&gt;&gt; Class</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
@@ -51,15 +51,15 @@ function nameClassifier(name, separator)
 		</tr>
 		<tr id="proj00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
-			<td class="ObjectDetailsValue">bormor</td>
+			<td class="ObjectDetailsValue">jonken</td>
 		</tr>
 		<tr id="proj01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
-			<td class="ObjectDetailsValue">1.0</td>
+			<td class="ObjectDetailsValue"></td>
 		</tr>
 		<tr id="proj02" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
-			<td class="ObjectDetailsValue">1.0</td>
+			<td class="ObjectDetailsValue"></td>
 		</tr>
 		<tr id="proj03" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
@@ -87,20 +87,20 @@ function nameClassifier(name, separator)
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{6E4D2B04-440F-4ac6-BF8B-91F95E554C6F}</td>
+			<td class="ObjectDetailsValue">{DA965E29-1DCE-48dc-935A-9398ECCEF868}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="EA473.htm">Hoveddiagram Fellesegenskaper</a></td>
+			<td class="ObjectDetailsValue"><a href="EA474.htm">Hoveddiagram Fellesegenskaper</a></td>
 		</tr>
 	</table>
-	<div class="ObjectDetailsNotes">Unik identifikasjon av et objekt i et datasett, forvaltet av den ansvarlige produsent/forvalter, og kan benyttes av eksterne applikasjoner som stabil referanse til objektet. &lt;br/&gt;&lt;br/&gt;Merknad 1: Denne objektidentifikasjonen må ikke forveksles med en tematisk objektidentifikasjon, slik som f.eks bygningsnummer. &lt;br/&gt;&lt;br/&gt;Merknad 2: Denne unike identifikatoren vil ikke endres i løpet av objektets levetid, og ikke gjenbrukes i andre objekt. &lt;br/&gt;</div>
+	<div class="ObjectDetailsNotes">abstrakt objekttype som bærer sentrale egenskaper som er anbefalt for bruk i produktspesifikasjoner.&lt;br/&gt;&lt;br/&gt;Merknad: Disse egenskapene skal derfor ikke modelleres inn i fagområdemodeller.&lt;br/&gt;</div>
 
 	<div class="TableGroup" id="TableGroup">
 		<ul class="ItemTitle">
 			<li onClick="parent.toggleItem('Attributes');" id="AttributesTitle">Attributes</li>
-			<li onClick="parent.toggleItem('TaggedVal');" id="TaggedValTitle">Tagged Values</li>
 			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Advanced</li>
+			<li onClick="parent.toggleItem('Links');" id="LinksTitle">Other Links</li>
 		</ul>
 <div class="ItemBody" id="AttributesTable">
 	<table border="0" cellspacing="0" cellpadding="0" class="Table">
@@ -109,56 +109,56 @@ function nameClassifier(name, separator)
 		</tr>
 						<tr>
 				<td width="100%" class="TableRow">
-					<i>Public CharacterString</i><br /><strong>&nbsp;&nbsp;lokalId</strong>
+					<i>Public <a href="EA478.htm">Identifikasjon</a></i><br /><strong>&nbsp;&nbsp;identifikasjon</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1332')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1332" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1328')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1328" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes1332_00" style="display: none;">
+						<tr id="DetailsImageAttributes1328_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
-							<td>localId</td>
+							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1332_01" style="display: none;">
+						<tr id="DetailsImageAttributes1328_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1332_02" style="display: none;">
+						<tr id="DetailsImageAttributes1328_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1332_03" style="display: none;">
+						<tr id="DetailsImageAttributes1328_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1332_04" style="display: none;">
+						<tr id="DetailsImageAttributes1328_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1332_05" style="display: none;">
+						<tr id="DetailsImageAttributes1328_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes1332_06" style="display: none;">
+						<tr id="DetailsImageAttributes1328_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes1332_07" style="display: none;">
+							<tr id="DetailsImageAttributes1328_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
 					</table>
 					
-					SOSI_datatype=T<br>SOSI_lengde=100<br>SOSI_navn=LOKALID<br>
+					SOSI_navn=IDENT<br>
 						<div class="ObjectDetailsNotes"><table>
 	<tr>
 		<td valign="top">
 			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
 		</td>
 		<td>
-			lokal identifikator av et objekt&lt;br/&gt;&lt;br/&gt;Merknad: Det er dataleverendørens ansvar å sørge for at den lokale identifikatoren er unik innenfor navnerommet.&lt;br/&gt;
+			unik identifikasjon av et objekt &lt;br/&gt;
 		</td>
 	</tr>
 </table></div>
@@ -167,56 +167,56 @@ function nameClassifier(name, separator)
 				</td>
 			</tr>			<tr>
 				<td width="100%" class="TableRow">
-					<i>Public CharacterString</i><br /><strong>&nbsp;&nbsp;navnerom</strong>
+					<i>Public DateTime</i><br /><strong>&nbsp;&nbsp;oppdateringsdato</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1333')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1333" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1329')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1329" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes1333_00" style="display: none;">
+						<tr id="DetailsImageAttributes1329_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
-							<td>namespace</td>
+							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1333_01" style="display: none;">
+						<tr id="DetailsImageAttributes1329_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1333_02" style="display: none;">
+						<tr id="DetailsImageAttributes1329_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1333_03" style="display: none;">
+						<tr id="DetailsImageAttributes1329_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1333_04" style="display: none;">
+						<tr id="DetailsImageAttributes1329_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1333_05" style="display: none;">
+						<tr id="DetailsImageAttributes1329_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes1333_06" style="display: none;">
+						<tr id="DetailsImageAttributes1329_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes1333_07" style="display: none;">
+							<tr id="DetailsImageAttributes1329_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
 					</table>
 					
-					SOSI_datatype=T<br>SOSI_lengde=100<br>SOSI_navn=NAVNEROM<br>
+					definition="Date and time at which this version of the spatial object was inserted or changed in the spatial data set."@en<br>SOSI_datatype=DATOTID<br>SOSI_navn=OPPDATERINGSDATO<br>
 						<div class="ObjectDetailsNotes"><table>
 	<tr>
 		<td valign="top">
 			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
 		</td>
 		<td>
-			navnerom som unikt identifiserer datakilden til et objekt, anbefales å være en http-URI&lt;br/&gt;&lt;br/&gt;Eksempel: http://data.geonorge.no/SentraltStedsnavnsregister/1.0&lt;br/&gt;&lt;br/&gt;Merknad : Verdien for nanverom vil eies av den dataprodusent som har ansvar for de unike identifikatorene og må være registrert i data.geonorge.no eller data.norge.no&lt;br/&gt;
+			tidspunkt for siste endring på objektet &lt;br/&gt;&lt;br/&gt;Merknad: &lt;br/&gt;Oppdateringsdato kan være forskjellig fra datafangsdato ved at data som er registrert kan bufres en kortere eller lengre periode før disse legges inn i datasystemet (databasen).&lt;br/&gt;
 		</td>
 	</tr>
 </table></div>
@@ -225,56 +225,114 @@ function nameClassifier(name, separator)
 				</td>
 			</tr>			<tr>
 				<td width="100%" class="TableRow">
-					<i>Public CharacterString</i><br /><strong>&nbsp;&nbsp;versjonId</strong>
+					<i>Public DateTime</i><br /><strong>&nbsp;&nbsp;gyldigFra</strong>
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">										
-					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1334')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1334" border="0" />Details:</a>
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1330')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1330" border="0" />Details:</a>
 					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
 					
-						<tr id="DetailsImageAttributes1334_00" style="display: none;">
+						<tr id="DetailsImageAttributes1330_00" style="display: none;">
 							<td width="75"><i>Alias:</i></td>
-							<td>versionId</td>
+							<td>validFrom</td>
 						</tr>
-						<tr id="DetailsImageAttributes1334_01" style="display: none;">
+						<tr id="DetailsImageAttributes1330_01" style="display: none;">
 							<td width="75"><i>Initial:</i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1334_02" style="display: none;">
+						<tr id="DetailsImageAttributes1330_02" style="display: none;">
 							<td width="75"><i>Stereotype: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1334_03" style="display: none;">
+						<tr id="DetailsImageAttributes1330_03" style="display: none;">
 							<td width="75"><i>Ordered: </i></td>
 							<td></td>
 						</tr>
-						<tr id="DetailsImageAttributes1334_04" style="display: none;">
+						<tr id="DetailsImageAttributes1330_04" style="display: none;">
 							<td width="75"><i>Range: </i></td>
 							<td>Range:0 to 1</td>
 						</tr>
-						<tr id="DetailsImageAttributes1334_05" style="display: none;">
+						<tr id="DetailsImageAttributes1330_05" style="display: none;">
 							<td width="75"><i>Transient: </i></td>
 							<td>False</td>
 						</tr>
-						<tr id="DetailsImageAttributes1334_06" style="display: none;">
+						<tr id="DetailsImageAttributes1330_06" style="display: none;">
 							<td width="75"><i>Derived: </i></td>
 							<td>False</td>
 						</tr>
-							<tr id="DetailsImageAttributes1334_07" style="display: none;">
+							<tr id="DetailsImageAttributes1330_07" style="display: none;">
 							<td width="75"><i>IsID: </i></td>
 						<td>False</td>
 						</tr>
 					</table>
 					
-					SOSI_datatype=T<br>SOSI_lengde=100<br>SOSI_navn=VERSJONID<br>
+					definition="The time when the phenomenon started to exist in the real world."@en<br>SOSI_datatype=DATOTID<br>SOSI_navn=GYLDIGFRA<br>
 						<div class="ObjectDetailsNotes"><table>
 	<tr>
 		<td valign="top">
 			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
 		</td>
 		<td>
-			identifikasjon av en spesiell versjon av et geografisk objekt (instans)&lt;br/&gt;
+			Tidspunktet når objektet oppstod i den virkelige verden&lt;br/&gt;
+		</td>
+	</tr>
+</table></div>
+
+						
+				</td>
+			</tr>			<tr>
+				<td width="100%" class="TableRow">
+					<i>Public DateTime</i><br /><strong>&nbsp;&nbsp;gyldigTil</strong>
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">										
+					<a href="#" onclick="parent.toggleData('DetailsImageAttributes1331')" style="text-decoration: none; color: #000000;"><img src="../../../../../images/plus03.gif" align="absmiddle" id="DetailsImageAttributes1331" border="0" />Details:</a>
+					<table border="0" cellspacing="0" cellpadding="0" class="Table" style="padding: 4px 18px;">
+					
+						<tr id="DetailsImageAttributes1331_00" style="display: none;">
+							<td width="75"><i>Alias:</i></td>
+							<td>validTo</td>
+						</tr>
+						<tr id="DetailsImageAttributes1331_01" style="display: none;">
+							<td width="75"><i>Initial:</i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1331_02" style="display: none;">
+							<td width="75"><i>Stereotype: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1331_03" style="display: none;">
+							<td width="75"><i>Ordered: </i></td>
+							<td></td>
+						</tr>
+						<tr id="DetailsImageAttributes1331_04" style="display: none;">
+							<td width="75"><i>Range: </i></td>
+							<td>Range:0 to 1</td>
+						</tr>
+						<tr id="DetailsImageAttributes1331_05" style="display: none;">
+							<td width="75"><i>Transient: </i></td>
+							<td>False</td>
+						</tr>
+						<tr id="DetailsImageAttributes1331_06" style="display: none;">
+							<td width="75"><i>Derived: </i></td>
+							<td>False</td>
+						</tr>
+							<tr id="DetailsImageAttributes1331_07" style="display: none;">
+							<td width="75"><i>IsID: </i></td>
+						<td>False</td>
+						</tr>
+					</table>
+					
+					definition="The time from which the phenomenon no longer exists in the real world."@en<br>SOSI_datatype=DATOTID<br>SOSI_navn=GYLDIGTIL<br>
+						<div class="ObjectDetailsNotes"><table>
+	<tr>
+		<td valign="top">
+			<i>Notes: </i><span style="margin-left: .4cm;"> </span>
+		</td>
+		<td>
+			Tidspunktet når objektet opphørte å eksistere i den virkelige verden&lt;br/&gt;
 		</td>
 	</tr>
 </table></div>
@@ -284,27 +342,7 @@ function nameClassifier(name, separator)
 			</tr>
 	</table>
 </div>
-<div class="ItemBody" id="TaggedValTable">
-	<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
-		<tr>
-			<td width="50%" class="TableHeading">Tag</td>
-			<td width="50%" class="TableHeading">Value</td>
-		</tr>
-					<tr>
-				<td width="50%" class="TableRow" valign="top">SOSI_navn</td>
-				<td width="50%" class="TableRow" valign="top">IDENT</td>
-			</tr>	
-			<tr>
-				<td class="TableRowBottomDashed"  colspan="2">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageScenario1335" onclick="parent.toggleDiv('detailsDIVScenario1335','DetailsImageScenario1335')" />Details:
-						<div id="detailsDIVScenario1335" class="DetailsDiv" >
-						&nbsp;
-						</div>
-					</div>
-				</td>
-			</tr>
-	</table>
-</div>		<div class="ItemBody" id="CustomPropertiesTable">
+		<div class="ItemBody" id="CustomPropertiesTable">
 			<table border="0" cellspacing="0" cellpadding="0" class="Table">
 				<tr>
 					<td width="30%" class="TableHeading">Property</td>
@@ -317,7 +355,26 @@ function nameClassifier(name, separator)
 
 
 			</table>
-		</div>	</div>
+		</div>		<div class="ItemBody" id="LinksTable">
+			<table align="center" border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Object</td>
+					<td width="10%" class="TableHeading">Type</td>
+					<td width="10%" class="TableHeading">Connection</td>
+					<td width="10%" class="TableHeading">Direction</td>
+					<td width="40%" class="TableHeading">Notes</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="EA479.htm">«FeatureType» SOSI_Objekt</a></td>
+					<td width="10%" class="TableRow" valign="top">Class</td>
+					<td width="10%" class="TableRow" valign="top">Generalization</td>
+					<td width="10%" class="TableRow" valign="top">From</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+
+			</table>
+		</div>
+	</div>
 <div class="pageFooter"></div>
  
 </body>
